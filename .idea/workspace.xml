@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f44d6bc-46b0-4eb8-8db6-b56f2d193798" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/Resources/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit166_Methods_Merge_TwoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit166_Methods_Merge_TwoString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/TRASH/ReplitPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/TRASH/ReplitPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day26_MethodOverloading/Uniques.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day26_MethodOverloading/Uniques.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/Uniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/Uniques.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +40,7 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocalDate_Practice">
+  <component name="RunManager" selected="Application.Time">
     <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day27_DateTime.Dates" />
       <module name="Srping2020B18_Java" />
@@ -99,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Arrays.Uniques" />
+    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Arrays.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Time" />
         <item itemvalue="Application.LocalDate_Practice" />
         <item itemvalue="Application.Dates" />
         <item itemvalue="Application.Replit154_Palindrome" />
         <item itemvalue="Application.Replit153_UniqueWords" />
-        <item itemvalue="Application.Uniques" />
       </list>
     </recent_temporary>
   </component>
