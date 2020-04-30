@@ -1,4 +1,5 @@
 package day28_DateTime;
+import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 public class TimeFormatting {
@@ -16,6 +17,11 @@ public class TimeFormatting {
 
         boolean result1 = time1.isAfter(time2);
         System.out.println(result1);
+
+        LocalDate birt=LocalDate.of(2020,04, 23);
+        DateTimeFormatter date1=DateTimeFormatter.ofPattern("MMM/dd/yy");
+        System.out.println(birt);
+        System.out.println(birt.format(date1));
 
     }
 

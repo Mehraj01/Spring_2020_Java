@@ -3,6 +3,240 @@
   <component name="ChangeListManager">
     <list default="true" id="9f44d6bc-46b0-4eb8-8db6-b56f2d193798" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/Resources/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Relpit049_HttpCodes_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit022_ShoppingList_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit024_PatientInformation_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit027_SchoolGrades_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit034_VideoGameCupoans_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit035_GiftCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit035_Words.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit040_QuizQustion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit045_BurgerOrChicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit046_SilentNumber_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit050_SwitchChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit051_TipCalcu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit054_Calendar_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit056_LaptopConfigurator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit057_FindAUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit058_Find_The_Length.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit059_firstLast_character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit060_Verify_contains_StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit062_FirstAndLast_letter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit064_MiddleOneString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit064_middleOne_StringMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit065_Middle_three_StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit067_Reverse_it_StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit069_PrintTheLongestWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit070_AlejandroEmails_StrindMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit072_Email_StringMethods_Swap_theWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit073_Email_StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit074_SMSmessage_StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit075_X_x.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit079_String_NoEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit080_OnlineBook_Merchants_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit082_Divide_3_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit083_Party_Loop_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit084_ZombieAttack_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit085_Shoppinglist_Loop_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit086_CatAndDogs_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit087_Has_Java_Loop_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit090_CountJava_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit091_Count_Hi_LoopString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit092_Factorial_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit095_GetSandwich_LoopString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit097_Java_Python.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit099_CountTriples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit100_Arrays_printingLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit101_Print_FirstLast_charArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit102_Arrays_ReverseSentence_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit103_Arrays_ReverseSentence_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit105_Print_FirstLastChar_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit107_Arrays_countEvens_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit108_Print_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit109_Arrays_printingLoopString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit110_Arrays_countEvens_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit110_Print_arterisk_nTimeLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit113_Nested_ForEachLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit114_Arrays_find_nonduplicate_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit115_Arrays_FindingMaxLengthString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit119_Arrays_Averagetemperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit139_Methods_simpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit141_Methods_findCube.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit144_Methods_VoidMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit145_Methods_plus_minus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit145_NestedLOOP_Arterisk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit146_Methods_splitPersonInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit148_Methods_printNumbers_Void.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit149_Add_toARRAY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit151_Print_Uniques.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit153_UniqueWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit154_Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit155_FibonacciNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit156_MethodsReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit157_MethodwithReturn2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit164_MethodWithReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit166_Methods_Merge_TwoString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit167_Methods_RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit169_Methods_Count_Words.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit23_Scanner1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit23_Scanner2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit30_ShoppingList_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit32_Scanner3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit33_Scanner4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit33_ScannerCitizen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit34_Scanner5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit_CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit_If_satement_BurgerChicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit_Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit_LoopCalculater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit_StringCharAt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit_StringLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit_StringSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit_loop_draw_rect_outline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Replit_Practice/Replit_string_indexOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/Aa_Bb_Alphabet_ForLoop_StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/Alphabets_Ascii_For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/CountTheWords_Loop_StringMEthods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/Credentials_For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/Extract_AllTheWords_StringMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/Extract_word_StringManupilation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/FirstLetters_UpperCase_StringManupilation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/LogIn_StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/MaxMinNum_InputScanner_For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/OddEvenNumbers_For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/PalindromeTest_For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/Print_Initials_Using_StringManupilation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/Print_LastLetters_StringManupilation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/ReverseWords_For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/SquareNumbers_For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/SubstractWord_Half_StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/SumOfNumbers_For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/Solutionns_Classes_Ways/SumOf_InputScanner_For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/TRASH/Practice_loop_114.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/TRASH/ReplitPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/SELF_PRACTICE/TRASH/Replit_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day15_ForLoop/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day15_ForLoop/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/ReverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day28_DateTime/TimeFormatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day28_DateTime/TimeFormatting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Relpit049_HttpCodes_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit022_ShoppingList_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit024_PatientInformation_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit027_SchoolGrades_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit034_VideoGameCupoans_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit035_GiftCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit035_Words.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit040_QuizQustion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit045_BurgerOrChicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit046_SilentNumber_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit050_SwitchChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit051_TipCalcu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit054_Calendar_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit056_LaptopConfigurator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit057_FindAUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit058_Find_The_Length.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit059_firstLast_character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit060_Verify_contains_StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit062_FirstAndLast_letter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit064_MiddleOneString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit064_middleOne_StringMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit065_Middle_three_StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit067_Reverse_it_StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit069_PrintTheLongestWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit070_AlejandroEmails_StrindMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit072_Email_StringMethods_Swap_theWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit073_Email_StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit074_SMSmessage_StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit075_X_x.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit079_String_NoEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit080_OnlineBook_Merchants_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit082_Divide_3_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit083_Party_Loop_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit084_ZombieAttack_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit085_Shoppinglist_Loop_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit086_CatAndDogs_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit087_Has_Java_Loop_String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit090_CountJava_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit091_Count_Hi_LoopString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit092_Factorial_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit095_GetSandwich_LoopString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit097_Java_Python.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit099_CountTriples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit100_Arrays_printingLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit101_Print_FirstLast_charArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit102_Arrays_ReverseSentence_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit103_Arrays_ReverseSentence_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit105_Print_FirstLastChar_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit107_Arrays_countEvens_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit108_Print_Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit109_Arrays_printingLoopString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit110_Arrays_countEvens_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit110_Print_arterisk_nTimeLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit113_Nested_ForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit114_Arrays_find_nonduplicate_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit115_Arrays_FindingMaxLengthString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit119_Arrays_Averagetemperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit139_Methods_simpleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit141_Methods_findCube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit144_Methods_VoidMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit145_Methods_plus_minus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit145_NestedLOOP_Arterisk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit146_Methods_splitPersonInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit148_Methods_printNumbers_Void.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit149_Add_toARRAY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit151_Print_Uniques.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit153_UniqueWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit154_Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit155_FibonacciNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit156_MethodsReturn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit157_MethodwithReturn2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit164_MethodWithReturn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit166_Methods_Merge_TwoString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit167_Methods_RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit169_Methods_Count_Words.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit23_Scanner1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit23_Scanner2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit30_ShoppingList_Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit32_Scanner3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit33_Scanner4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit33_ScannerCitizen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit34_Scanner5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit_CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit_If_satement_BurgerChicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit_Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit_LoopCalculater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit_StringCharAt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit_StringLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit_StringSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit_loop_draw_rect_outline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Replit_Practice/Replit_string_indexOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/Aa_Bb_Alphabet_ForLoop_StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/Alphabets_Ascii_For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/CountTheWords_Loop_StringMEthods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/Credentials_For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/Extract_AllTheWords_StringMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/Extract_word_StringManupilation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/FirstLetters_UpperCase_StringManupilation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/LogIn_StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/MaxMinNum_InputScanner_For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/OddEvenNumbers_For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/PalindromeTest_For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/Print_Initials_Using_StringManupilation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/Print_LastLetters_StringManupilation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/ReverseWords_For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/SquareNumbers_For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/SubstractWord_Half_StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/SumOfNumbers_For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/Solutionns_Classes_Ways/SumOf_InputScanner_For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/TRASH/Practice_loop_114.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/TRASH/ReplitPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_PRACTICE/TRASH/Replit_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day15_ForLoop/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day15_ForLoop/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_loops/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_loops/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day24_Methods/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Methods/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/TimeFormatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/TimeFormatting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +259,14 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -40,13 +276,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Time">
-    <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Dates" />
+  <component name="RunManager" selected="Application.ArrayList_Reverse">
+    <configuration name="ArrayListMethods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArrayListMethods2" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day30_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalDate_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.LocalDate_Practice" />
+    <configuration name="ArrayList_CombineString_InArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WarmupTasks.ArrayList_CombineString_InArrayList" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="WarmupTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit153_UniqueWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SELF_PRACTICE.Replit_Practice.Replit153_UniqueWords" />
+    <configuration name="ArrayList_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArrayList_Reverse" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SELF_PRACTICE.Replit_Practice.*" />
+          <option name="PATTERN" value="day30_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +316,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit154_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SELF_PRACTICE.Replit_Practice.Replit154_Palindrome" />
+    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.SumOfDigits" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SELF_PRACTICE.Replit_Practice.*" />
+          <option name="PATTERN" value="day30_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +329,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time" />
+    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.Uniques" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="day30_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +344,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Time" />
-        <item itemvalue="Application.LocalDate_Practice" />
-        <item itemvalue="Application.Dates" />
-        <item itemvalue="Application.Replit154_Palindrome" />
-        <item itemvalue="Application.Replit153_UniqueWords" />
+        <item itemvalue="Application.ArrayList_Reverse" />
+        <item itemvalue="Application.ArrayListMethods2" />
+        <item itemvalue="Application.Uniques" />
+        <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.ArrayList_CombineString_InArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -163,77 +399,89 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1587348582830" />
-    <state width="1238" height="142" key="GridCell.Tab.0.bottom" timestamp="1587785831301">
+    <state width="1238" height="124" key="GridCell.Tab.0.bottom" timestamp="1588138754019">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="128" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1587527462237" />
     <state width="1238" height="185" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1587348442237" />
+    <state width="1878" height="142" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1587885160090" />
     <state width="1238" height="143" key="GridCell.Tab.0.bottom/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1584075597482" />
     <state width="1238" height="163" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.0.1280.800@0.0.1280.800" timestamp="1585676060880" />
-    <state width="1238" height="142" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587785831300" />
+    <state width="1238" height="124" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1588138754019" />
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1587966273933" />
     <state width="1238" height="160" key="GridCell.Tab.0.bottom/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1585635865656" />
-    <state width="1238" height="142" key="GridCell.Tab.0.center" timestamp="1587785831299">
+    <state width="1238" height="124" key="GridCell.Tab.0.center" timestamp="1588138754018">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="128" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1587527462236" />
     <state width="1238" height="185" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1587348442234" />
+    <state width="1878" height="142" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1587885160088" />
     <state width="1238" height="143" key="GridCell.Tab.0.center/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1584075597480" />
     <state width="1238" height="163" key="GridCell.Tab.0.center/1280.23.1920.1057/0.0.1280.800@0.0.1280.800" timestamp="1585676060877" />
-    <state width="1238" height="142" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587785831299" />
+    <state width="1238" height="124" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1588138754018" />
+    <state width="1238" height="142" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1587966273932" />
     <state width="1238" height="160" key="GridCell.Tab.0.center/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1585635865655" />
-    <state width="1238" height="142" key="GridCell.Tab.0.left" timestamp="1587785831298">
+    <state width="1238" height="124" key="GridCell.Tab.0.left" timestamp="1588138754017">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="128" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1587527462236" />
     <state width="1238" height="185" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1587348442232" />
+    <state width="1878" height="142" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1587885160087" />
     <state width="1238" height="143" key="GridCell.Tab.0.left/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1584075597479" />
     <state width="1238" height="163" key="GridCell.Tab.0.left/1280.23.1920.1057/0.0.1280.800@0.0.1280.800" timestamp="1585676060875" />
-    <state width="1238" height="142" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587785831298" />
+    <state width="1238" height="124" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1588138754017" />
+    <state width="1238" height="142" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1587966273932" />
     <state width="1238" height="160" key="GridCell.Tab.0.left/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1585635865654" />
-    <state width="1238" height="142" key="GridCell.Tab.0.right" timestamp="1587785831300">
+    <state width="1238" height="124" key="GridCell.Tab.0.right" timestamp="1588138754019">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="128" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1587527462237" />
     <state width="1238" height="185" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1587348442236" />
+    <state width="1878" height="142" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1587885160089" />
     <state width="1238" height="143" key="GridCell.Tab.0.right/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1584075597481" />
     <state width="1238" height="163" key="GridCell.Tab.0.right/1280.23.1920.1057/0.0.1280.800@0.0.1280.800" timestamp="1585676060878" />
-    <state width="1238" height="142" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587785831300" />
+    <state width="1238" height="124" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1588138754019" />
+    <state width="1238" height="142" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1587966273933" />
     <state width="1238" height="160" key="GridCell.Tab.0.right/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1585635865655" />
-    <state width="1238" height="200" key="GridCell.Tab.1.bottom" timestamp="1587545877863">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1238" height="200" key="GridCell.Tab.1.bottom" timestamp="1587893184605">
+      <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state width="1238" height="200" key="GridCell.Tab.1.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587545877863" />
-    <state width="1238" height="200" key="GridCell.Tab.1.center" timestamp="1587545877862">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1238" height="200" key="GridCell.Tab.1.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587863628532" />
+    <state width="1238" height="200" key="GridCell.Tab.1.bottom/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1587893184605" />
+    <state width="1238" height="200" key="GridCell.Tab.1.center" timestamp="1587893184604">
+      <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state width="1238" height="200" key="GridCell.Tab.1.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587545877862" />
-    <state width="1238" height="200" key="GridCell.Tab.1.left" timestamp="1587545877862">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1238" height="200" key="GridCell.Tab.1.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587863628530" />
+    <state width="1238" height="200" key="GridCell.Tab.1.center/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1587893184604" />
+    <state width="1238" height="200" key="GridCell.Tab.1.left" timestamp="1587893184604">
+      <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state width="1238" height="200" key="GridCell.Tab.1.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587545877862" />
-    <state width="1238" height="200" key="GridCell.Tab.1.right" timestamp="1587545877862">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1238" height="200" key="GridCell.Tab.1.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587863628529" />
+    <state width="1238" height="200" key="GridCell.Tab.1.left/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1587893184604" />
+    <state width="1238" height="200" key="GridCell.Tab.1.right" timestamp="1587893184604">
+      <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state width="1238" height="200" key="GridCell.Tab.1.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587545877862" />
-    <state x="139" y="23" width="982" height="708" key="SettingsEditor" timestamp="1586598636873">
+    <state width="1238" height="200" key="GridCell.Tab.1.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587863628531" />
+    <state width="1238" height="200" key="GridCell.Tab.1.right/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1587893184604" />
+    <state x="139" y="23" width="982" height="708" key="SettingsEditor" timestamp="1588209767478">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="96" y="0" key="SettingsEditor/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1586598581766" />
-    <state x="139" y="23" width="982" height="708" key="SettingsEditor/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1586598636873" />
+    <state x="139" y="23" width="982" height="708" key="SettingsEditor/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1588209767478" />
     <state x="492" y="300" key="VCS.ChangelistChooser" timestamp="1587787844826">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="492" y="300" key="VCS.ChangelistChooser/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587787844826" />
-    <state x="309" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587789260606">
+    <state x="309" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588135503119">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708@0.23.1280.708" timestamp="1586637070522" />
-    <state x="309" y="189" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587789260606" />
+    <state x="309" y="189" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1588135503119" />
     <state x="309" y="205" key="com.intellij.ide.util.TipDialog/1280.23.1920.988/0.23.1280.777@0.23.1280.777" timestamp="1584626779967" />
-    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587655503991">
+    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588048084623">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587655503991" />
+    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1588048084623" />
     <state x="1344" y="23" width="1688" height="949" key="dock-window-1" timestamp="1586062730296">
       <screen x="1280" y="23" width="1920" height="1057" />
     </state>
@@ -242,10 +490,10 @@
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="378" y="138" width="524" height="482" key="extract.method.dialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1586931369772" />
-    <state x="34" y="23" key="new project wizard" timestamp="1587669898519">
+    <state x="34" y="23" key="new project wizard" timestamp="1587877159013">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state x="34" y="23" key="new project wizard/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587669898519" />
+    <state x="34" y="23" key="new project wizard/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587877159013" />
     <state x="342" y="256" width="675" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586598633029">
       <screen x="0" y="23" width="1280" height="708" />
     </state>

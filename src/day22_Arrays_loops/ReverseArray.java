@@ -18,6 +18,7 @@ public class ReverseArray {
             System.out.println(eachNum);
         }
 
+
         System.out.println("===================================");
         //[5, 4, 3, 2, 1]
         int[] RevArr = new int[arr.length]; // [0, 0, 0, 0, 0]

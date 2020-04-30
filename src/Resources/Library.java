@@ -1,20 +1,12 @@
 package Resources;
-
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Library {
 
-
     public static int[] sortDesending(int[] arr){
         Arrays.sort(arr);  // {1,2,3,4};  ==> {4,3,2,1};
         int[] RevArr = new int[arr.length] ;
-        /*
-                      i        j
-               RevArr[0] = arr[3]
-               RevArr[1] = arr[2]
-               RevArr[2] = arr[1];
-               RevArr[3] = arr[0];
-         */
 
         int j = arr.length-1;
         for(int i =0; i < arr.length; i++ ){
@@ -26,9 +18,7 @@ public class Library {
 
     }
 
-
-
-    public static String Reverse2(String str){
+    public static String Reverse(String str){  // can reverse a string and returns string
         String Reverse = "";
 
         for(int i = str.length()-1; i >= 0; i-- ){
@@ -38,6 +28,15 @@ public class Library {
         return  Reverse;
     }
 
+    // remove duplicates from string
+
+    // Frequency of string
+
+    // merge two array and return third one
+
+    // max number from array
+
+    // min number from array
 
     public static String RemoveDuplicates(String str){
         String result =  "";      //AB
@@ -51,9 +50,9 @@ public class Library {
         }
 
         return result;
-
-
     }
+
+
     public static int Frequency(String str1, String str2){
         int count = 0 ;
         while(str1.contains(str2)){
@@ -64,19 +63,17 @@ public class Library {
         return count;
     }
 
+
     public static String FrequencyOfChars(String str){
+        String NonDup =  Library.RemoveDuplicates(str)  ;             //ABC
+        String result = ""; //coantisn the frequency of chars
 
-        String result="";
-        String nonDup= Library.RemoveDuplicates(str); //ABC
-        // System.out.println(nonDup);
-
-        for(int i=0; i<nonDup.length(); i++) {   //A2B2C1
-            String ch = "" + nonDup.charAt(i);
-            int num = Library.Frequency(str, ch);
-            result+=ch + num;
-            // System.out.print(ch + num);
+        for(int i =0; i < NonDup.length();i++){
+            String ch = ""+NonDup.charAt(i);//  "A"
+            int num =  Library.Frequency(str, ch);
+            result += ch+num;
         }
-        //System.out.println(result);
+
         return result;
     }
 
@@ -103,6 +100,20 @@ public class Library {
         }
 
         return result;
+    }
+
+
+    public static int max(ArrayList<Integer> list){  // returns the mxmum number from arraylist
+        int maximum = Integer.MIN_VALUE;
+        for(int i = 0; i < list.size(); i++){
+
+            if(list.get(i) > maximum ){
+                maximum = list.get(i);
+            }
+
+        }
+
+        return maximum;
     }
 
 
