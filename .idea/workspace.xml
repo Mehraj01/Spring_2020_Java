@@ -279,7 +279,7 @@
   <component name="RunManager" selected="Application.ArrayList_Reverse">
     <configuration name="ArrayListMethods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArrayListMethods2" />
-      <module name="Srping2020B18_Java" />
+      <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day30_ArrayList.*" />
@@ -292,7 +292,7 @@
     </configuration>
     <configuration name="ArrayList_CombineString_InArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WarmupTasks.ArrayList_CombineString_InArrayList" />
-      <module name="Srping2020B18_Java" />
+      <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="WarmupTasks.*" />
@@ -305,7 +305,7 @@
     </configuration>
     <configuration name="ArrayList_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArrayList_Reverse" />
-      <module name="Srping2020B18_Java" />
+      <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day30_ArrayList.*" />
@@ -318,7 +318,7 @@
     </configuration>
     <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day30_ArrayList.SumOfDigits" />
-      <module name="Srping2020B18_Java" />
+      <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day30_ArrayList.*" />
@@ -331,7 +331,7 @@
     </configuration>
     <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day30_ArrayList.Uniques" />
-      <module name="Srping2020B18_Java" />
+      <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day30_ArrayList.*" />
