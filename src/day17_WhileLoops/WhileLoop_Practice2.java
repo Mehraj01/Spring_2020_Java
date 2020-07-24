@@ -16,8 +16,9 @@ public class WhileLoop_Practice2 {
 
         System.out.println("====================================");
         int sum= 0;
-        int i = 0;
 
+
+        int i = 0;
         while(i <= 10){
             if(i %2 ==0){
                 // System.out.println(i);

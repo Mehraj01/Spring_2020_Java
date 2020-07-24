@@ -13,6 +13,8 @@ public class WrapperCLass_Practice {
     public static void main(String[] args) {
 
         String[] arr = {"1","2.5", "3", "3.5", "4.5"};
+        System.out.println(Arrays.toString(arr)); //==> will print [1, 2.5, 3, 3.5, 4.5]
+
 
         double max = Double.MIN_VALUE; // 2.5
 
@@ -22,9 +24,11 @@ public class WrapperCLass_Practice {
             if( num > max){
                 max= num;
             }
+            System.out.print(num+" "); // ==> will print 1.0 2.5 3.0 3.5 4.5
+
 
         }
-
+        System.out.println();
 
         System.out.println(max);
 
@@ -44,6 +48,8 @@ public class WrapperCLass_Practice {
         System.out.println(Arrays.toString(numbers) );
 
         System.out.println( numbers[numbers.length-1] );
+
+
 
 
 

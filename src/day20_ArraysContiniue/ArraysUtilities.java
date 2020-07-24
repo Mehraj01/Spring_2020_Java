@@ -8,7 +8,7 @@ public class ArraysUtilities {
         String r = Arrays.toString(arr);
         System.out.println(r);
 
-        System.out.println(arr); // ARray bMUST be converted to string before we print
+        System.out.println(arr); // Array bMUST be converted to string before we print
 
 
         String names[] = {"Madina", "Fatih", "Osman"};

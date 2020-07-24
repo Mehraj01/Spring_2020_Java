@@ -1,6 +1,7 @@
 package day30_ArrayList;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class ArrayListMethods2 {
     public static void main(String[] args) {
@@ -8,6 +9,7 @@ public class ArrayListMethods2 {
         list.add("A");  //0
         list.add("B"); //1
         list.add("C");  //2
+
 
 
         // list.remove(1);

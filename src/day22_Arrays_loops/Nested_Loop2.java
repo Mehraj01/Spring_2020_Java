@@ -11,7 +11,6 @@ public class Nested_Loop2 {
          */
 
         for(int k =0; k<numbers.length; k++ ){
-
             for(int i = 0; i <  numbers[k].length; i++ ){
                 System.out.print( numbers[k][i] +" ");
             }

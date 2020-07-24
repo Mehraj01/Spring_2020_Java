@@ -4,7 +4,6 @@ public class Nested_Loop_Practice {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
-
         while(true) {
 
             System.out.println("Enter two numbers");
@@ -24,8 +23,6 @@ public class Nested_Loop_Practice {
                 System.out.println("Thank you for using the calculator");
                 break;
             }
-
-
         }
 
 

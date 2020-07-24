@@ -30,7 +30,6 @@ public class Array_List_Practice2 {
 
 
         int maximum2 = Integer.MIN_VALUE;
-
         for(Integer each  : list){
 
             if(each > maximum2 ){
@@ -54,6 +53,7 @@ public class Array_List_Practice2 {
 
 
     public static int max(ArrayList<Integer> list){
+
         int maximum = Integer.MIN_VALUE;
         for(int i = 0; i < list.size(); i++){
 

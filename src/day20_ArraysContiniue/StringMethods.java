@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class StringMethods {
     public static void main(String[] args) {
-        String name = "Muhtar ";
+        String name = "Muhtar";
         char[] characters =  name.toCharArray();
 
         System.out.println( Arrays.toString(characters) );

@@ -4,8 +4,9 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 public class TimeFormatting {
     public static void main(String[] args) {
-        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("hh:mm:ss a");
 
+
+        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("hh:mm:ss a");
 
         LocalTime time1  = LocalTime.of(9,30, 30);
 

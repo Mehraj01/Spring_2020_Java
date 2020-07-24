@@ -9,6 +9,8 @@ public class Array_List_Practice {
         shoppingList.add( "Coffee" );  // size: 2
         shoppingList.add( "Bread" );   // size: 3
         shoppingList.add( "Toilet Paper" );  // size: 4
+
+
         shoppingList.add( "Eggs" );  // size: 5
 
         System.out.println(shoppingList);

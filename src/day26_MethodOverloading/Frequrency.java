@@ -29,6 +29,7 @@ public class Frequrency {
         char ch2 = 'B';
         int num2 = frequency(str2, ch2);
         System.out.println(num2);
+        System.out.println( frequency("GHGHGH", 'J'));
 
 
     }

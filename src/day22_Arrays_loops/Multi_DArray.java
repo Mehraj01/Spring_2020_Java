@@ -26,12 +26,13 @@ public class Multi_DArray {
 
 
         for(int eachElement : arr2D[0] ){
-            System.out.println(eachElement);
+            System.out.print(eachElement);
         }
+        System.out.println();
 
         for(int i=0; i < arr2D[0].length; i++){
             int num =  arr2D[0][i];
-            System.out.println(num);
+            System.out.print(num);
         }
 
     }

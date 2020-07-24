@@ -25,8 +25,8 @@ public class UniqeValues {
                 }
             }
             if(count1==1){
-                System.out.println(count1);
-                System.out.println(arr[k]);
+                //System.out.print(count1);
+                System.out.print(arr[k]);
 
             }
 

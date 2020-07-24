@@ -9,6 +9,10 @@ public class do_while_loop2 {
             number--;
         }
 
+        System.out.println(number);
+
+
+
         System.out.println("=====================================");
 
         int number2 = 103;

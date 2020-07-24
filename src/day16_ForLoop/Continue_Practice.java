@@ -14,8 +14,8 @@ public class Continue_Practice {
         System.out.println();
 
         for(int i=1; i<=100; i++){
-            if(i%3==0 || i%5==0){
-                continue;
+            if(i%3==0 || i%5==0){ //
+                continue; // skip
             }
             System.out.print(i+" ");
         }

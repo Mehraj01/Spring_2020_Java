@@ -29,6 +29,7 @@ public class Frequency {
     }
 
     public static int Frequency(String str1, String str2){
+
         int count = 0 ;
         while(str1.contains(str2)){
             count++;

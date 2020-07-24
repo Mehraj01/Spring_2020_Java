@@ -36,6 +36,7 @@ public class SumOf_String_Integers {
             if(Character.isDigit(str.charAt(i))){
                 //if it is numbers it assign char numbers to string result
                 String result=""+str.charAt(i);
+
                 // After that we will convert string numbers to the integer.
                 int num=Integer.parseInt(result);
                 //sum will hold the sum of the total integers

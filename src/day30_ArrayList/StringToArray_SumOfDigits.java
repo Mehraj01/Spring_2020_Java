@@ -2,7 +2,7 @@ package day30_ArrayList;
 
 import java.util.Arrays;
 
-public class SumOfDigits {
+public class StringToArray_SumOfDigits {
     public static void main(String[] args) {
         /*
         1. write a program that can return the sum of all the digits from a string

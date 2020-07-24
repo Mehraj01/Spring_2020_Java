@@ -7,20 +7,16 @@ public class ContinueStatement {
             if(i==3){
                 continue;// skip the number
             }
-
             System.out.println(i);
-
         }
 
         for(int i=0; i<=20; i++){
             if(i%2!=0){
                 continue; // skip all the odd numbers
             }
-            /*
-            if(i%2==0){ // skips all the even numbers
-                continue;
-            }
-             */
+           // if(i%2==0){ // skips all the even numbers
+               // continue;
+           // }
             System.out.print(i+" ");
         }
 

@@ -3,6 +3,11 @@ package day29_Wrapper_ArrayList;
 public class ParseMethods {
     public static void main(String[] args) {
 
+
+        // - Converting String to primitive  ==> X.parseX(str);
+        //   - Converting String to wrapper class  ==> X.valueOf(str);
+
+
         String str = "123";
 
         int a1 = Integer.parseInt(str);  //123
