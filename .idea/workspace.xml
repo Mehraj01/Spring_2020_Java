@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f44d6bc-46b0-4eb8-8db6-b56f2d193798" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DateTime/Date_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DateTime/Date_Formatting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,7 @@
   <component name="RunManager" selected="Application.String_VS_Buffer_VS_Builder">
     <configuration name="Map_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day54_Map.Map_Intro" />
-      <module name="Spring2020B18_Java" />
+      <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day54_Map.*" />
@@ -73,7 +70,7 @@
     </configuration>
     <configuration name="Map_SetEntries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day54_Map.Map_SetEntries" />
-      <module name="Spring2020B18_Java" />
+      <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day54_Map.*" />
@@ -86,7 +83,7 @@
     </configuration>
     <configuration name="Maps_Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day54_Map.Maps_Practice1" />
-      <module name="Spring2020B18_Java" />
+      <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day54_Map.*" />
@@ -99,7 +96,7 @@
     </configuration>
     <configuration name="Maps_setEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day54_Map.Maps_setEntry" />
-      <module name="Spring2020B18_Java" />
+      <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day54_Map.*" />
@@ -112,7 +109,7 @@
     </configuration>
     <configuration name="String_VS_Buffer_VS_Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day54_Map.String_VS_Buffer_VS_Builder" />
-      <module name="Spring2020B18_Java" />
+      <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day54_Map.*" />
