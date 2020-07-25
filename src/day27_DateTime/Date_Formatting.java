@@ -19,6 +19,7 @@ public class Date_Formatting {
                     Apr/23/20
          */
 
+        System.out.println("=========");
 
         DateTimeFormatter dtf2 =DateTimeFormatter.ofPattern("E MMMM/dd/yy");
 

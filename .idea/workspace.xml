@@ -2,307 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f44d6bc-46b0-4eb8-8db6-b56f2d193798" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_11_2020/PracticeVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_11_2020/Practice_EscapeSequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_11_2020/Practice_Println.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_18_2020/LogicalOperators_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_18_2020/ShortHandOperators_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_18_2020/SingleIf_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_18_2020/SingleIf_Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_18_2020/UnaryOpeartors_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_25_2020/ExplicitCasting_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_25_2020/IfElse_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_25_2020/NestedIf_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_25_2020/NestedIf_Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_25_2020/SingleIfStatement_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_03_25_2020/multiBranchIf_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_01_2020/String_Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_01_2020/String_Methods2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_01_2020/literal_new.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_08_2020/FindingMaxAndMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_08_2020/FoorLoop_Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_08_2020/For_loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_08_2020/do_WhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_08_2020/nestedLoop_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_08_2020/whileLoops_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_15_2020/ArrayUtility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_15_2020/ForEachLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_15_2020/MultiDimensionalArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_15_2020/NestedLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_15_2020/NestedLoops2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_15_2020/SingleDArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_15_2020/StringMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_22_2020/methodOverloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_22_2020/return_Metho.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_22_2020/return_Statemenet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_22_2020/return_method2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/OfficeHours/Practice_04_22_2020/void_Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/Resources/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/WarmupTasks/ArrayList_CombineString_InArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/WarmupTasks/ArrayList_Integer_in_Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/WarmupTasks/ArrayList_Unique_Inside_ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/WarmupTasks/ArrayList_Uniques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/WarmupTasks/SumOf_String_Integers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day01_FirstProgramming/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day01_FirstProgramming/PrintExercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day01_FirstProgramming/TellMeAboutYourSelf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day01_FirstProgramming/WhatILearned.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day01_FirstProgramming/classMates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day01_FirstProgramming/gasreciept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day01_FirstProgramming/myName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/DoubleFloatPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/EmployeeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/EmployeeInfo_Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/EscapeSequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/HelloCybertek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/StringPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/TellMeAboutYourself.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/VariablesPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day02_Variables/print_VS_println.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day03_VariablesContinue/ArithmaticOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day03_VariablesContinue/SalaryCalculater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day03_VariablesContinue/VariableContinue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day03_VariablesContinue/boolean_char_practise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day04_JavaRecap/AritmeticOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day04_JavaRecap/Varaibles_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day05_Unary_ShorthandOperators/IfStatmentPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day05_Unary_ShorthandOperators/LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day05_Unary_ShorthandOperators/PostPre.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day05_Unary_ShorthandOperators/PostPre_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day05_Unary_ShorthandOperators/PrimitiveCastings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day05_Unary_ShorthandOperators/UnaryOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day05_Unary_ShorthandOperators/VariablesPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day06_Shorthnd_LogicalOperators/ShortHandOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day06_Shorthnd_LogicalOperators/SingelIfStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day06_Shorthnd_LogicalOperators/logicalOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day06_Shorthnd_LogicalOperators/warmUp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day07_IfStatements/If_Else_Statements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day07_IfStatements/MaxNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day07_IfStatements/MediumNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day07_IfStatements/MinNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day07_IfStatements/ValidTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day07_IfStatements/Vote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day08_IfStatements/DaysInMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day08_IfStatements/DaysInMonth_MultiBranchIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day08_IfStatements/EqualNumber_MultiBranchIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day08_IfStatements/MultiBranchIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day08_IfStatements/MultiBranchIf_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day08_IfStatements/equalNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day08_IfStatements/timer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day09_NestedIf_Ternary/AgeGroup_NestedIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day09_NestedIf_Ternary/IfStatement_WithoutCurlyBraces.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day09_NestedIf_Ternary/Loan_NestedIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day09_NestedIf_Ternary/NestedIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day09_NestedIf_Ternary/Ternary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day09_NestedIf_Ternary/Ternary2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day09_NestedIf_Ternary/Ternary_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day09_NestedIf_Ternary/Ternary_Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day09_NestedIf_Ternary/ageGroups.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/LocalVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/Replit054_WeekDays_Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/ScannerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/ScannerClass_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/SwitchStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/SwitchStatement_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/SwitchStatement_Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/SwitchStatment_Practice3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/days.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/daysInMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/numberToWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/number_scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day10_Switch_Scanner/rateCalculater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day11_Scanner/Browsers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day11_Scanner/NextLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day11_Scanner/NextLine_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day11_Scanner/SalaryCalculater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day11_Scanner/ScannerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day11_Scanner/Scanner_Practice1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day12_JavaRecap/QuizReview.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day12_JavaRecap/Scanner_Next.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day12_JavaRecap/Scanner_NextLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day12_JavaRecap/Scanner_NextLine_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day12_JavaRecap/SumOfFiveNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day12_JavaRecap/Switch_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day12_JavaRecap/Ternaries_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day12_JavaRecap/Ternary_Prcatice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day12_JavaRecap/salary_Calculater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day13_StringClass/NumberToWords_SwitchScanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day13_StringClass/ShippingInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day13_StringClass/StringLiterals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day13_StringClass/StringManipulations2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day13_StringClass/StringManipulations_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day13_StringClass/StringManulations3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day13_StringClass/StringManuplations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/CheckWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/CombinedTwoString2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/Credentials2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/StartEndWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/StringManipulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/StringManipulation3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/StringManupilation2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/combineTwoString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/middleCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/redentials.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day14_StringClass/webAddres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day15_ForLoop/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day15_ForLoop/ForLoop_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day15_ForLoop/Initials.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day15_ForLoop/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day15_ForLoop/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/Alphabets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/BreakStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/CalculateSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/CalculateSum100.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/ContinueStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/Continue_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/DivisibleBy3_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/EnglishAlphabet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/PalinDromeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/Quiz_Kahoot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day16_ForLoop/RmeoveDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/Credentials.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/Findra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/Frequencey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/Max_Min.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/PalindromeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/WhileLoop_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/WhileLoop_Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/WhileLoop_Practice3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/While_loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/branchingStatements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day17_WhileLoops/calculater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/DivideTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/FactorialNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/Nested_Loop2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/Nested_Loop_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/Neted_Loop2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/StringReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/do_while_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/do_while_loop2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day18_Nested_Loop/do_while_loopPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day19_Arrays/Arrays_Intro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day19_Arrays/Arrays_Practice1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day19_Arrays/Arrays_Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day19_Arrays/Freqruency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day19_Arrays/Uniques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day20_ArraysContiniue/Array_Equal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day20_ArraysContiniue/Array_Size.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day20_ArraysContiniue/Array_Sorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day20_ArraysContiniue/ArraysUtilities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day20_ArraysContiniue/CombineTwoArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day20_ArraysContiniue/Days.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day20_ArraysContiniue/Max_Min.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day20_ArraysContiniue/Months.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day20_ArraysContiniue/StringMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/Avarage_Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/Count_odd_even.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/DeepToString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/Emails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/For_Each_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/Formating_Decimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/Longest_Shortest_Words.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/MultiDimensinal_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/Multi_DimensionalArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/Quiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/ScrumTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/StringMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day21_MultiDimensional_Arrays/Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/Count_odd_even.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/Decending.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/EvenNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/Java_Python.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/Multi_DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/Nested_ForEach_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/Nested_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/Nested_Loop2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/Nested_LoopPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/ReverseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/Scanner_withArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day22_Arrays_loops/nested_ForEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day23_Methods/Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day23_Methods/MethodsPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day23_Methods/Methods_withParameters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day23_Methods/Methods_withParameters2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day23_Methods/Methods_withPractice3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day23_Methods/UniqeValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/Array_Descending.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/BirthYears.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/ReturnMethods_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/Return_Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/StringReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/TasksFromYesterday.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day24_Methods/WarUpTasks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day25_MethodRecap/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day25_MethodRecap/Frequency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day25_MethodRecap/FrequrenceOfChracthers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day25_MethodRecap/RemoveDuplicate_String.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day25_MethodRecap/Return_Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day25_MethodRecap/Return_statement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day25_MethodRecap/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day26_MethodOverloading/Frequrency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day26_MethodOverloading/MethodOverload2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day26_MethodOverloading/MethodOverloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day26_MethodOverloading/MethodOverloading3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day26_MethodOverloading/MethodOverloading4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day26_MethodOverloading/Uniques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day27_DateTime/Date_Formatting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day27_DateTime/Dates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day27_DateTime/Find_Min.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day27_DateTime/unique_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day28_DateTime/Birthdays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day28_DateTime/DateTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day28_DateTime/DateTime_Formatting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day28_DateTime/LocalDate_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day28_DateTime/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day28_DateTime/TimeFormatting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day29_Wrapper_ArrayList/Array_List_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day29_Wrapper_ArrayList/Array_List_Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day29_Wrapper_ArrayList/Array_list_intro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day29_Wrapper_ArrayList/Auto_Unboxing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day29_Wrapper_ArrayList/ParseMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day29_Wrapper_ArrayList/ValueOfMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day29_Wrapper_ArrayList/WrapperCLass_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day29_Wrapper_ArrayList/WrapperClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day30_ArrayList/ArrayListMethods2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day30_ArrayList/ArrayList_Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day30_ArrayList/ArrayList_Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day30_ArrayList/CombineTwoArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day30_ArrayList/SumOfDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day30_ArrayList/Uniques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_04_29_2020/ArrayList_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_29_2020/ArrayList_Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WarmupTasks/SumOf_String_Integers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WarmupTasks/SumOf_String_Integers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_ForLoop/ContinueStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16_ForLoop/ContinueStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_ForLoop/Continue_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16_ForLoop/Continue_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_ForLoop/PalinDromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16_ForLoop/PalinDromeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_WhileLoops/Frequencey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17_WhileLoops/Frequencey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_WhileLoops/WhileLoop_Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17_WhileLoops/WhileLoop_Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18_Nested_Loop/Nested_Loop_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_Nested_Loop/Nested_Loop_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18_Nested_Loop/do_while_loop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_Nested_Loop/do_while_loop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19_Arrays/Arrays_Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_Arrays/Arrays_Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day20_ArraysContiniue/ArraysUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_ArraysContiniue/ArraysUtilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day20_ArraysContiniue/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_ArraysContiniue/StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day21_MultiDimensional_Arrays/Emails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_MultiDimensional_Arrays/Emails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day21_MultiDimensional_Arrays/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_MultiDimensional_Arrays/StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_loops/Multi_DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_loops/Multi_DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_loops/Nested_Loop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_loops/Nested_Loop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_loops/Nested_LoopPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_loops/Nested_LoopPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_Methods/UniqeValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Methods/UniqeValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_MethodRecap/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodRecap/Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/Frequrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/Frequrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day27_DateTime/Date_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DateTime/Date_Formatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/TimeFormatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/TimeFormatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Array_List_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Array_List_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Array_List_Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Array_List_Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Array_list_intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Array_list_intro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ParseMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ParseMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperCLass_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperCLass_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/ArrayListMethods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayListMethods2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/StringToArray_SumOfDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,24 +45,25 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance/Method_Overriding" />
-      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Notes" />
+      <recent name="$PROJECT_DIR$/src/MyOwnLibrary" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Resources" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/MyOwnLibrary" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance/Method_Overriding" />
+      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FibonacciNumbers">
-    <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewCoding_Tasks_Solutions.Numbers.FibonacciNumbers" />
+  <component name="RunManager" selected="Application.String_VS_Buffer_VS_Builder">
+    <configuration name="Map_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Map.Map_Intro" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewCoding_Tasks_Solutions.Numbers.*" />
+          <option name="PATTERN" value="day54_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Finding_Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewCoding_Tasks_Solutions.String.Finding_Uniques" />
+    <configuration name="Map_SetEntries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Map.Map_SetEntries" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewCoding_Tasks_Solutions.String.*" />
+          <option name="PATTERN" value="day54_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,19 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice" />
-      <module name="Spring2020B18_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="convertString_toPrimitive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyOwnLibrary.convertString_toPrimitive" />
+    <configuration name="Maps_Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Map.Maps_Practice1" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyOwnLibrary.*" />
+          <option name="PATTERN" value="day54_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -400,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="moveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyOwnLibrary.moveZeros" />
+    <configuration name="Maps_setEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Map.Maps_setEntry" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyOwnLibrary.*" />
+          <option name="PATTERN" value="day54_Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_VS_Buffer_VS_Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Map.String_VS_Buffer_VS_Builder" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day54_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FibonacciNumbers" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.moveZeros" />
-        <item itemvalue="Application.Finding_Uniques" />
-        <item itemvalue="Application.convertString_toPrimitive" />
+        <item itemvalue="Application.String_VS_Buffer_VS_Builder" />
+        <item itemvalue="Application.Maps_setEntry" />
+        <item itemvalue="Application.Map_SetEntries" />
+        <item itemvalue="Application.Maps_Practice1" />
+        <item itemvalue="Application.Map_Intro" />
       </list>
     </recent_temporary>
   </component>
@@ -446,6 +156,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583771056216</updated>
     </task>
+    <task id="LOCAL-00001" summary="All the packages">
+      <created>1595616304633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595616304634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,6 +178,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All the packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the packages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1846" y="195" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1595134841028">
@@ -485,10 +207,14 @@
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="378" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1594699956071" />
-    <state width="1483" height="213" key="GridCell.Tab.0.bottom" timestamp="1595210890144">
+    <state x="248" y="23" key="CommitChangelistDialog2" timestamp="1595616303577">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state width="1238" height="160" key="GridCell.Tab.0.bottom/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1589607744253" />
+    <state x="248" y="23" key="CommitChangelistDialog2/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595616303577" />
+    <state width="1238" height="115" key="GridCell.Tab.0.bottom" timestamp="1595655099234">
+      <screen x="0" y="23" width="1280" height="708" />
+    </state>
+    <state width="1238" height="115" key="GridCell.Tab.0.bottom/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595655099234" />
     <state width="1483" height="213" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1595210890144" />
     <state width="1238" height="109" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589348205615" />
     <state width="1878" height="148" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786200" />
@@ -498,10 +224,10 @@
     <state width="1483" height="115" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595203229689" />
     <state width="1238" height="199" key="GridCell.Tab.0.bottom/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637301" />
     <state width="1783" height="115" key="GridCell.Tab.0.bottom/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358269" />
-    <state width="1483" height="213" key="GridCell.Tab.0.center" timestamp="1595210890143">
+    <state width="1238" height="115" key="GridCell.Tab.0.center" timestamp="1595655099233">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state width="1238" height="160" key="GridCell.Tab.0.center/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1589607744252" />
+    <state width="1238" height="115" key="GridCell.Tab.0.center/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595655099233" />
     <state width="1483" height="213" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1595210890143" />
     <state width="1238" height="109" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589348205613" />
     <state width="1878" height="148" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786198" />
@@ -511,10 +237,10 @@
     <state width="1483" height="115" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595203229683" />
     <state width="1238" height="199" key="GridCell.Tab.0.center/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637300" />
     <state width="1783" height="115" key="GridCell.Tab.0.center/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358264" />
-    <state width="1483" height="213" key="GridCell.Tab.0.left" timestamp="1595210890143">
+    <state width="1238" height="115" key="GridCell.Tab.0.left" timestamp="1595655099232">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state width="1238" height="160" key="GridCell.Tab.0.left/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1589607744251" />
+    <state width="1238" height="115" key="GridCell.Tab.0.left/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595655099232" />
     <state width="1483" height="213" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1595210890143" />
     <state width="1238" height="109" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589348205612" />
     <state width="1878" height="148" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786197" />
@@ -524,10 +250,10 @@
     <state width="1483" height="115" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595203229681" />
     <state width="1238" height="199" key="GridCell.Tab.0.left/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637300" />
     <state width="1783" height="115" key="GridCell.Tab.0.left/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358263" />
-    <state width="1483" height="213" key="GridCell.Tab.0.right" timestamp="1595210890144">
+    <state width="1238" height="115" key="GridCell.Tab.0.right" timestamp="1595655099233">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state width="1238" height="160" key="GridCell.Tab.0.right/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1589607744252" />
+    <state width="1238" height="115" key="GridCell.Tab.0.right/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595655099233" />
     <state width="1483" height="213" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1595210890144" />
     <state width="1238" height="109" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589348205614" />
     <state width="1878" height="148" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786199" />
@@ -589,10 +315,14 @@
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="492" y="300" key="VCS.ChangelistChooser/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1587787844826" />
-    <state x="309" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1595616036529">
+    <state x="240" y="118" key="Vcs.Push.Dialog.v2" timestamp="1595616315925">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595616036529" />
+    <state x="240" y="118" key="Vcs.Push.Dialog.v2/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595616315925" />
+    <state x="309" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1595700923274">
+      <screen x="0" y="23" width="1280" height="708" />
+    </state>
+    <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595700923274" />
     <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708@0.23.1280.708" timestamp="1594596320900" />
     <state x="309" y="188" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1595037053964" />
     <state x="1744" y="269" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595194482344" />
