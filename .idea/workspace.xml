@@ -843,20 +843,7 @@
       <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringManipulation">
-    <configuration name="Credentials2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14_StringClass.Credentials2" />
-      <module name="Srping2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day14_StringClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Practice">
     <configuration name="MiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyOwnLibrary.MiddleCharacter" />
       <module name="Srping2020B18_Java" />
@@ -866,6 +853,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="Srping2020B18_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -911,11 +905,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.StringManipulation" />
         <item itemvalue="Application.startsWith_endsWith_Method" />
         <item itemvalue="Application.MiddleCharacter" />
         <item itemvalue="Application.middleCharacter" />
-        <item itemvalue="Application.Credentials2" />
       </list>
     </recent_temporary>
   </component>
@@ -998,11 +992,11 @@
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="378" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1594699956071" />
-    <state x="248" y="23" key="CommitChangelistDialog2" timestamp="1595872680781">
+    <state x="248" y="23" key="CommitChangelistDialog2" timestamp="1595872715722">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="248" y="23" key="CommitChangelistDialog2/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595616303577" />
-    <state x="248" y="23" key="CommitChangelistDialog2/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1595872680781" />
+    <state x="248" y="23" key="CommitChangelistDialog2/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1595872715722" />
     <state width="1238" height="115" key="GridCell.Tab.0.bottom" timestamp="1595820608534">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
