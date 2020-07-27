@@ -25,6 +25,7 @@ public class PrimitiveCastings {
         float f3=(int)d3;//5.5
         //f3=(int)5.5
         //f3=5;
+        System.out.println(f3);//5
 
         System.out.println(f3);
 
@@ -53,7 +54,8 @@ public class PrimitiveCastings {
 
         int z1=10;
         double t1b=z1;//10.0
-        short y1=(short)z1;
+        short y1=(byte)z1;
+        System.out.println(y1);
 
 
 

@@ -26,6 +26,57 @@ public class Practice {
         }
 
 
+/*
+
+        //Given 2 arrays of ints, a and b, return true if
+        //they have the same first element or they have the same last element.
+        //Both arrays will be length 1 or more.
+
+        int[]a={1,2,3,4};
+        int[]b={4,5,3,5};
+
+        boolean result=true;
+
+
+        for(int i=0; i<a.length; i++){
+            if(a.length>=1 && b.length>=1) {
+                if(a[0]==b[0] && a[a.length-1]==b[b.length-1]) {
+                    result = a[i] == b[i];
+                }
+            }
+        }
+        System.out.println(result);
+
+
+ */
+        int [] arr1= {1,3,6};
+        int [] arr2= {3,6};
+        boolean result= false;
+        for(int i=0; i<arr1.length; i++) {
+            for(int j=0; j< arr2.length; j++) {
+                if(arr1.length>=1 && arr2.length>=1) {
+                    if(arr1[0]== arr2[0] || arr1[arr1.length-1]== arr2[arr2.length-1]){
+                        result=true;
+                    }
+                }
+            }
+        }
+
+
+
+
+
+        System.out.println(result);
+
+        int [] arr3= {1,3,6};
+        int [] arr4= {3,6};
+        if(arr3.length>=1 && arr4.length>=1) {
+            if(arr3[0]== arr4[0] || arr3[arr3.length-1]== arr4[arr4.length-1]){
+                System.out.println(true);
+            }
+        }
+
+
 
 
 
@@ -34,4 +85,45 @@ public class Practice {
 
     }
 }
+class practice2{
+    public static void main(String[] args) {
 
+
+        //Create a function that counts the number of syllables a word has. Each syllable is separated with a dash "-"
+        //Examples
+        //numberSyllables("buf-fet") ➞ 2
+
+
+        String word="buffet";
+
+        word=word.substring(0,3).concat("-")+word.substring(3);
+        System.out.println(word);
+
+
+        String str = "buf-fet";
+        int count=0;
+        while(str.contains("-")){
+            str=str.replaceFirst("-","");
+            count++;
+        }
+        System.out.println(count+1);
+
+
+    }
+}
+
+class practice3{
+    public static void main(String[] args) {
+
+        Scanner input=new Scanner(System.in);
+        String result="";
+        for (int i=0; i<2; i++){
+            System.out.println("Enter word ");
+            String word=input.next();
+            result+=word.substring(1);
+        }
+        System.out.println(result);
+
+
+    }
+}

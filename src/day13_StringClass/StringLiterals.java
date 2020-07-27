@@ -2,6 +2,7 @@ package day13_StringClass;
 
 public class StringLiterals {
     public static void main(String[] args) {
+
         String str1 = "Cat"; // String Pool
         String str2 = new String("Cat"); // Java Heap
 

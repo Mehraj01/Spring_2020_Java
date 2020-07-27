@@ -1,4 +1,7 @@
 package day11_Scanner;
+
+import java.util.Scanner;
+
 /*
 3. write a program that can display the selected browser
                         1. declear a String variable called browserName
@@ -10,15 +13,17 @@ public class Browsers {
     public static void main(String[] args) {
 
 
-        String browser="Chrome";
+//        Scanner scan =new Scanner(System.in);
+//        String browser=scan.nextLine();
+        String browser="chrome";
 
-        switch(browser){
+        switch(browser.toLowerCase()){
             case "chrome":
             case "Chrome":
                 System.out.println("Chrome opening");
                 break;
-            case "firefax":
-            case "Firefax":
+            case "firefox":
+            case "Firefox":
                 System.out.println("Firefax is opening");
                 break;
             case "Opera":

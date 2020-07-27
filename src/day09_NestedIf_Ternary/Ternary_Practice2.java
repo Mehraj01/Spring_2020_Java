@@ -18,10 +18,6 @@ public class Ternary_Practice2 {
 
         System.out.println("===================================================");
 
-        int number = 12000;
-        boolean divisibleBy3And5 = (number % 3 ==0 && number % 5 ==0 ) ? true : false;
-
-        System.out.println(divisibleBy3And5);
 
 
 

@@ -17,6 +17,17 @@ public class numberToWords {
         System.out.println(word);
 
 
+        // with my way
+        String word1="";
+        if(num<9 &&num>0){
+           word1=(num==1)?"One":(num==2)?"Two":(num==3)?"Three":(num==4)?"four":(num==5)?"Five"
+                    :(num==6)?"Six":(num==7)?"Seven":(num==8)?"Egiht":"Nine";
+        }else{
+            word1="Invalid number";
+        }
+        System.out.println(word1);
+
+
 
 
 

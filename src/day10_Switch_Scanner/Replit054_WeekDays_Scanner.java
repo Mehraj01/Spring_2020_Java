@@ -11,6 +11,7 @@ public class Replit054_WeekDays_Scanner {
          */
         Scanner scan=new Scanner(System.in);
         System.out.println("Enter number:");
+
         int weekday=scan.nextInt();
         String result="";
 

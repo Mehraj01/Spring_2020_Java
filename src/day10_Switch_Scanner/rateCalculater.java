@@ -13,17 +13,18 @@ public class rateCalculater {
         Scanner rate=new Scanner(System.in);
 
         System.out.println("Enter Your salary: ");
-        int salary=rate.nextInt();
+        int salary = rate.nextInt();
 
         System.out.println("Enter how many hours you work in a week: ");
-        int hoursInWeek=rate.nextInt();
+        int hoursInWeek = rate.nextInt();
 
         System.out.println("How many weeks do you work in a year?");
-        int totalweeks=rate.nextInt();
+        int totalWeeks = rate.nextInt();
 
-        //HourlyRate=(salary/numberofweeks)/weeklyHours
+        //HourlyRate=(salary/numberOfWeeks)/weeklyHours
 
-        System.out.println("Your Hourly Rate is: "+((salary/52)/hoursInWeek));
+        System.out.println("Your Hourly Rate is: " + ((salary / 52) / hoursInWeek));
+
 
 
 

@@ -21,7 +21,7 @@ public class combineTwoString {
         System.out.println("Enter second word");
         String word2=input.next();
 
-        String result=word1.concat(" "+word2).concat(" "+word2).concat(" "+word1);
+        String result=word1.concat(word2).concat(word2).concat(word1);
         System.out.println(result);
 
 

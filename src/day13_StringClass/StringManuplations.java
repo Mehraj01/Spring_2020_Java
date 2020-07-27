@@ -25,8 +25,7 @@ public class StringManuplations {
 
 
         String s1 = "Cybertek";
-        s1.concat(" School"); // "Cybertek School"
-
+        s1=s1.concat(" School"); // "Cybertek School"
         System.out.println(s1);  // s1 = Cybertek School
 
         String s2 = "Java";
@@ -54,7 +53,7 @@ public class StringManuplations {
 
 
         String A1 = "        Today            is           a          great       day            ";
-        A1 =   A1.trim();
+        A1 = A1.trim();
         System.out.println(A1);
 
 

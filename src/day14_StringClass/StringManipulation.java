@@ -13,15 +13,15 @@ public class StringManipulation {
         System.out.println(a2);
 
         int a3 = str.indexOf(" I") +1 ; // second I' index number
-        System.out.println(a3);
+        System.out.println("---- "+a3);
 
         String s = "I like Java, and I like reading";
 
         int b1 =   s.lastIndexOf("I");
-        System.out.println(b1);
+        System.out.println("++++ "+ b1);//17
 
         int b2= s.lastIndexOf("l");
-        System.out.println(b2);
+        System.out.println(b2); // 19
 
 
         String z = "I like C#, C# is cool";

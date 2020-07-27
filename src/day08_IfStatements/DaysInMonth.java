@@ -18,7 +18,6 @@ public class DaysInMonth {
 
         int days=0;
 
-
         if(days28){
             //System.out.println("it has 28 days");
             days=28;

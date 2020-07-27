@@ -151,6 +151,22 @@ public class For_Loop {
 		  Ex:  "AABCC" ==> "B"
 ("===================================================================================================================");
 
+       TASK 16 delete first letters
+
+       2. Ask user to enter two words. Print first word without its first character then print the
+        second word without its first character.
+			Input:
+				apple
+				banana
+			Output:
+				ppleanana
+
+
+("===================================================================================================================");
+
+
+
+
     */
 
     }
@@ -680,6 +696,27 @@ class Uniques{
 
 
 //System.out.println("===============================================================================================");
+    }
+}
+
+class removeFirstLetter_Scanner{
+    public static void main(String[] args) {
+
+        //TASK 16 delete first letters
+        //Input: apple, banana
+        //Output: ppleanana
+
+
+        // my version with for loop
+        Scanner scan=new Scanner(System.in);
+        String result1="";
+        for (int i=0; i<2; i++){
+            System.out.println("Enter word ");
+            String word=scan.next();
+            result1+=word.substring(1);
+        }
+        System.out.println(result1);
+
     }
 }
 
