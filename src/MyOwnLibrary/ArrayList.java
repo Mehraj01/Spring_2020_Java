@@ -539,6 +539,20 @@ class ExtractChars{
         java.util.ArrayList<Character> specialChars = new java.util.ArrayList<>();
 
         for(char each : arr ){
+            if( Character.isLetter(each) ){ // we can give isAlphabetic(each); method as well
+                letters.add(each);
+            }else if(Character.isDigit(each)){
+                digits.add(each);
+            }else{
+                specialChars.add(each);
+            }
+
+        }
+
+        /*
+         for(int i= 0; i < str.length(); i++){
+            char each =  str.charAt(i);
+
             if( Character.isLetter(each) ){
                 letters.add(each);
             }else if(Character.isDigit(each)){
@@ -548,6 +562,7 @@ class ExtractChars{
             }
 
         }
+         */
 
         System.out.println(letters);
         System.out.println(digits);
@@ -603,7 +618,9 @@ class Duplicate_Digits{
 
         System.out.println(list); //[1,1,5,5]
 
-        //  System.out.println( new LinkedHashSet<>(list )); //[1,5]
+
+        // another way
+          System.out.println( new LinkedHashSet<>(list )); //[1,5]
     }
 }
 //System.out.println("===============================================================================================");

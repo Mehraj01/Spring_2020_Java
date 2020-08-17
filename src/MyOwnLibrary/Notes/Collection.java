@@ -1,15 +1,38 @@
 package MyOwnLibrary.Notes;
 /*
-
-
 -> There is 3 different Data Structures:
    Data Structures is for maintain, manage data efficiently and in an organized manner.
       - Arrays
       - Collections (ArrayList)
       - Map
 
+************************************************************************************************************************
+ 1) What is the Collection framework in Java?
+Collection Framework is a combination of classes and interface, which is used to store and manipulate the data in the
+form of objects. It provides various classes such as ArrayList, Vector, Stack, and HashSet, etc. and interfaces such as
+List, Queue, Set, etc. for this purpose.
+
+Iterable (I) -> Collection(I) -> List (I)
+                              -> Queue (I)
+                              -> Set (I)
+
+List (I) -> ArrayList (C)
+         -> LinkedList(C)
+         -> Vector -> Stack(C)
+
+Queue(I) -> PriorityQueue(C)
+         -> Deque(I) -> ArrayDeque(I)
+
+Set(I)   -> HasSet(C)
+         -> LinkedHashSet(C)
+         -> SortedSet(I) -> TreeSet(C)
+
+
+************************************************************************************************************************
+
+
 --> COLLECTION
-Collection is a group pf individual objects as a single entity
+Collection is a group pf individual objects as a single entity (organization)
    • Growable in nature. Can increase or decrease the size.
    • Can hold different data types.
    • Standard data structure. There are ready methods to use.

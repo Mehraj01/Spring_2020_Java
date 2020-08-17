@@ -15,7 +15,9 @@ public class ExtractChars {
         String  str = "ABCD123$%#@&456EFG!";
         char[] arr = str.toCharArray();
 
-        ArrayList<Character> letters = new ArrayList<>();  // isLetter()
+        //Java provides a wrapper class Character in java.lang package.
+        // An object of type Character contains a single field, whose type is char.
+        ArrayList<Character> letters = new ArrayList<>();  // isLetter() ==> whrapper class is letter
         ArrayList<Character> digits = new ArrayList<>();
         ArrayList<Character> specialChars = new ArrayList<>();
 

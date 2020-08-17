@@ -11,6 +11,7 @@ public class carObjects {
         car1.year = 2020;
         car1.color = "Red";
 
+        // we use instance to call the object variables
         // System.out.println( Brand );
         System.out.println(car1.Brand);  // instance variables are object variables, we cna call them through the object name
         System.out.println(car1.model);

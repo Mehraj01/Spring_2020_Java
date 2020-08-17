@@ -774,7 +774,7 @@ class FindMaxMin_ofString_WrapperClass{
 
         double max=Double.MIN_VALUE;
         for(int i=0; i<arr.length; i++){
-            double number=Double.valueOf(arr[i]); // - Converting String to wrapper class  ==> X.valueOf(str);
+            double number=Double.valueOf(arr[i]);
             if(number>max){
                 max=number;
             }

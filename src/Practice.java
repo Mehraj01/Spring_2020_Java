@@ -127,3 +127,134 @@ class practice3{
 
     }
 }
+class practice4{
+    public static void main(String[] args) {
+
+        Scanner scan =new Scanner(System.in);
+        int sum=0;
+
+        for(int i=1; i<3;i++){
+            System.out.println("Enter the number");
+            int numbers=scan.nextInt();
+            sum+=numbers;
+        }
+        System.out.println(sum);
+
+
+        int a=3;
+        int b=4;
+
+
+
+    }
+}
+
+class prcatice5{
+    public static void main(String[] args) {
+
+
+/*
+Create a function that takes a number (from 1 to 12) and returns its corresponding month name as a string.
+* For example, if you're given 3 as input, your function should return "March", because March is the 3rd month.
+* monthName(3) ➞ "March"
+* monthName(12) ➞ "December"
+* monthName(6) ➞ "June"
+ */
+
+        Scanner scan =new Scanner(System.in);
+        int number=scan.nextInt();
+
+   String month[]={"January", "February", "March", "April", "May", "June", "July", "August", "September",
+           "October", "November", "December"};
+
+
+    for(int i=0; i<month.length; i++) {
+        if(number==i){
+            System.out.println("month[i] = " + month[i-1]);
+
+        }
+
+
+    }
+
+
+        System.out.println(months(6));
+
+
+    }
+
+    public static String months(int num){
+        String[] months = {"January","February","March","April","May","June","July","August","September","October","November","December"};
+        return months [num-1];
+    }
+
+
+}
+
+
+
+class practice5{
+    public static void main(String[] args) {
+
+
+        Integer arr[]={1,0,2,0,3,0};
+
+        ArrayList<Integer> list=new ArrayList<>(Arrays.asList(arr));
+
+//        for(int i=0; i<arr.length; i++){
+//            list.add(arr[i]);
+//        }
+
+        for(int i=0; i<list.size(); i++){
+            if(list.get(i)==0){
+                list.remove(i);
+                list.add(0);
+            }
+        }
+        System.out.println(list);
+
+
+    }
+}
+class birObirBu{
+    public static void main(String[] args) {
+
+        int arr1[]={1,3,5};
+        int arr2[]={2,4,6};
+
+
+       // int Array[]=new int[arr1.length+arr2.length];
+        ArrayList<Integer>list=new ArrayList<>();
+
+        for(int i=0; i<arr1.length; i++){
+             list.add(arr1[i]);
+            list.add(arr2[i]);
+
+
+        }
+
+
+       // System.out.println(Arrays.toString(Array));
+        System.out.println(list);
+
+
+    }
+}
+
+class commonDivisor{
+    public static void main(String[] args) {
+
+
+        int a=25;
+        int b=15;
+        ArrayList<Integer>e=new ArrayList<>();
+        if(a>b){
+            for(int i=a;i>0;i--){
+                if(a%i==0&&b%i==0){
+                    e.add(i);
+                }
+            }
+        }
+        System.out.println(e);
+    }
+}

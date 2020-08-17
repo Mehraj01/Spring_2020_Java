@@ -1,5 +1,7 @@
 package day54_Map;
 
+import java.util.Arrays;
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
@@ -33,6 +35,22 @@ public class Map_Intro {
         employeeInfo.put("Zarina", 130000.0);// duplicate key and this will be print to the screen
 
         System.out.println(employeeInfo);
+
+
+        System.out.println("====================================");
+
+        String s="Seda, Ismail, Leyla, Seba";
+        String arr[]=s.split(" ");
+        Map<String, String>hello=new HashMap<>();
+        for(String each: arr){
+            hello.put(each,"");
+        }
+        System.out.println(hello);
+
+
+
+
+
 
 
 
