@@ -258,3 +258,53 @@ class commonDivisor{
         System.out.println(e);
     }
 }
+class mergeArrays{
+    public static void main(String[] args) {
+
+        int ar1[]={9,2,9};
+        int ar2[]={3,4,5,7};
+/*
+        int[] result = new int[ar1.length + ar2.length];
+        for(int i = 0; i < result.length; i++) {
+            result[i] = i < ar1.length ? ar1[i] : ar2[i - ar1.length]; // comparison
+        }
+
+        System.out.println(java.util.Arrays.toString(result));
+
+ */
+
+
+        int[] res = new int[ar1.length + ar2.length];
+
+        int j=0;
+        for(int i=0; i<res.length; i++) {
+            if(i<ar1.length){
+                res[i] = ar1[i];
+            }else{
+                res[i] = ar2[j];
+                j++;
+
+            }
+        }
+        System.out.println(java.util.Arrays.toString(res));
+
+    }
+}
+class practice7{
+    public static void main(String[] args) {
+
+        int a=10;
+        int b=2;
+        //if(a>b){
+
+        int count=0;
+        for(int i=a; i>=b; i-=b){
+            count++;
+
+        }
+
+        System.out.println(count);
+
+
+    }
+}

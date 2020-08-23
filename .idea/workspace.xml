@@ -3,15 +3,137 @@
   <component name="ChangeListManager">
     <list default="true" id="9f44d6bc-46b0-4eb8-8db6-b56f2d193798" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/convertString_toPrimitive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/convertString_toPrimitive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day54_Map/Map_Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day54_Map/Map_Intro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Arrays/Move_Zeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Arrays/Move_Zeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Alphabet_AscenAndDescen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Alphabets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ArrayList_ReverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Array_Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Average_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Break_Continue_St.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Calculate_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Calculater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Char_MultiDimensional_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ConvertString_WrapperClass_MaxMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Count_OddAndEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Credentials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Credentials_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DateTimeFormatter_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DateTime_Formatting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Date_Time_Formatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DaysInMonth_MultiBranch_If.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Days_InA_Week.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Days_In_Month.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Days_ofTheWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Descending_witShorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Divisible_ThreeAndFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DoWhile_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Duplicate_Digits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/EvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Even_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/EvensNums_1_100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ExtractChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/FactorialNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/FinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/FindMaxMin_ofString_WrapperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Find_J_K_Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Findra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Frequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Frequency_SingleChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Frequency_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/IndexOf_Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/JavaBasics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Java_Python_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/LongestShortest_Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Max_Min.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Max_Min_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/MiddleCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Middle_Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Moths_ofTheYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/MultiDimensional_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/NestedLoop_Works.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Nested_ForEach_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Nested_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/NumberDivide_By2Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Post_Pre_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Primitive_Casting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/PrintNames_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Print_Birthdays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/RateCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/RemoveDuplicates_Chars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Revers_Palindrome_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ReverseStringArray_toCharArray_Split.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/SkipPrinting_Followings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Start_End_Words.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/StringMethods_ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/StringToArray_SumOfDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/String_Array_Print3_Letters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/String_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/SumOf_EvenAndOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Sum_Count_ofEvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Ternary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/TimeFormatting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/UniqueChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/UniqueElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Uniques.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/While_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/WrapperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/YesOrNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/birthday_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/breakStatement_IntsAndChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/char_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/combineArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/combineTwo_StringArray_toArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/combinedTwoString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/convertString_toPrimitive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/convert_Gallons_Liters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/dates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/extractDigit_andLetters_fromString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/extractDigit_andLetters_fromString_Copy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/leapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/moveZeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/printGmail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_DuplicateCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_Initials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_OddEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_lowercaseCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/removeDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/removeFirstLetter_Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/replace_Concat_Trim_Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/sort_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/startsWith_endsWith_Contains_Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/timer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/webEndsWith.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day33_CustomClass/ExtractChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day33_CustomClass/ExtractChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day33_CustomClass/carObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day33_CustomClass/carObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day40_Encapsulation/CredintialsObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day40_Encapsulation/CredintialsObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Date_Time_Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Date_Time_Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/DoWhile_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/DoWhile_Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/For_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/For_Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance/Inheritance_Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Inheritance_Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/JavaBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/JavaBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/MultiDimensional_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/MultiDimensional_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Nested_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Nested_Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/CutomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/CutomClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/StringMethods_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/StringMethods_ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/String_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/String_Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/While_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/While_Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/WrapperClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day54_Map/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day54_Map/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day54_Map/Map_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day54_Map/Map_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_Encapsulation/CredintialsObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day40_Encapsulation/CredintialsObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day42_Inheritance/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,25 +173,25 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Notes" />
-      <recent name="$PROJECT_DIR$/src/MyOwnLibrary" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance/Method_Overriding" />
       <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Notes" />
+      <recent name="$PROJECT_DIR$/src/MyOwnLibrary" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Duplicate_Digits">
-    <configuration name="Duplicate_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyOwnLibrary.Duplicate_Digits" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="CredintialsObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day40_Encapsulation.CredintialsObject" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyOwnLibrary.*" />
+          <option name="PATTERN" value="day40_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Map.Map_Intro" />
+    <configuration name="CybertekObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Constructors.CybertekObjects" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day54_Map.*" />
+          <option name="PATTERN" value="day37_Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maps_setEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Map.Maps_setEntry" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructors.Test" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day54_Map.*" />
+          <option name="PATTERN" value="day38_Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,15 +225,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="birObirBu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="birObirBu" />
+    <configuration name="carpetObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CutomClass.carpetObjects" />
       <module name="Srping2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day34_CutomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice5" />
+    <configuration name="mergeArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mergeArrays" />
       <module name="Srping2020B18_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Duplicate_Digits" />
-        <item itemvalue="Application.birObirBu" />
-        <item itemvalue="Application.Map_Intro" />
-        <item itemvalue="Application.Maps_setEntry" />
-        <item itemvalue="Application.practice5" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.CredintialsObject" />
+        <item itemvalue="Application.CybertekObjects" />
+        <item itemvalue="Application.carpetObjects" />
+        <item itemvalue="Application.mergeArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -185,12 +313,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="All the packages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="151" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1595813649353">
+    <state x="377" y="151" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1597731451553">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="377" y="151" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595813649353" />
     <state x="1846" y="195" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595134841028" />
-    <state x="377" y="151" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1594704439039" />
+    <state x="377" y="151" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597731451553" />
     <state x="361" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594576128449">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
@@ -213,7 +341,7 @@
     </state>
     <state x="248" y="23" key="CommitChangelistDialog2/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595616303577" />
     <state x="248" y="23" key="CommitChangelistDialog2/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1595872715722" />
-    <state width="1238" height="142" key="GridCell.Tab.0.bottom" timestamp="1597696671902">
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom" timestamp="1597900589105">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127628" />
@@ -223,11 +351,11 @@
     <state width="1878" height="148" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786200" />
     <state width="1878" height="148" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595150179107" />
     <state width="1238" height="152" key="GridCell.Tab.0.bottom/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079069" />
-    <state width="1238" height="142" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597696671902" />
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597900589105" />
     <state width="1351" height="175" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1596416624397" />
     <state width="1238" height="199" key="GridCell.Tab.0.bottom/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637301" />
     <state width="1783" height="115" key="GridCell.Tab.0.bottom/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358269" />
-    <state width="1238" height="142" key="GridCell.Tab.0.center" timestamp="1597696671901">
+    <state width="1238" height="142" key="GridCell.Tab.0.center" timestamp="1597900589103">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="142" key="GridCell.Tab.0.center/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127627" />
@@ -237,11 +365,11 @@
     <state width="1878" height="148" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786198" />
     <state width="1878" height="148" key="GridCell.Tab.0.center/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595150179104" />
     <state width="1238" height="152" key="GridCell.Tab.0.center/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079066" />
-    <state width="1238" height="142" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597696671901" />
+    <state width="1238" height="142" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597900589103" />
     <state width="1351" height="175" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1596416624396" />
     <state width="1238" height="199" key="GridCell.Tab.0.center/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637300" />
     <state width="1783" height="115" key="GridCell.Tab.0.center/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358264" />
-    <state width="1238" height="142" key="GridCell.Tab.0.left" timestamp="1597696671900">
+    <state width="1238" height="142" key="GridCell.Tab.0.left" timestamp="1597900589102">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="142" key="GridCell.Tab.0.left/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127626" />
@@ -251,11 +379,11 @@
     <state width="1878" height="148" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786197" />
     <state width="1878" height="148" key="GridCell.Tab.0.left/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595150179103" />
     <state width="1238" height="152" key="GridCell.Tab.0.left/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079066" />
-    <state width="1238" height="142" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597696671900" />
+    <state width="1238" height="142" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597900589102" />
     <state width="1351" height="175" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1596416624395" />
     <state width="1238" height="199" key="GridCell.Tab.0.left/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637300" />
     <state width="1783" height="115" key="GridCell.Tab.0.left/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358263" />
-    <state width="1238" height="142" key="GridCell.Tab.0.right" timestamp="1597696671901">
+    <state width="1238" height="142" key="GridCell.Tab.0.right" timestamp="1597900589104">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="142" key="GridCell.Tab.0.right/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127627" />
@@ -265,51 +393,51 @@
     <state width="1878" height="148" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786199" />
     <state width="1878" height="148" key="GridCell.Tab.0.right/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595150179105" />
     <state width="1238" height="152" key="GridCell.Tab.0.right/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079067" />
-    <state width="1238" height="142" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597696671901" />
+    <state width="1238" height="142" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597900589104" />
     <state width="1351" height="175" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1596416624396" />
     <state width="1238" height="199" key="GridCell.Tab.0.right/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637301" />
     <state width="1783" height="115" key="GridCell.Tab.0.right/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358267" />
-    <state width="1238" height="138" key="GridCell.Tab.1.bottom" timestamp="1595820608529">
+    <state width="1238" height="138" key="GridCell.Tab.1.bottom" timestamp="1597738492307">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="138" key="GridCell.Tab.1.bottom/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595820608529" />
     <state width="1483" height="213" key="GridCell.Tab.1.bottom/0.23.1280.708@0.23.1280.708" timestamp="1595210890145" />
     <state width="1878" height="248" key="GridCell.Tab.1.bottom/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595144517857" />
     <state width="1878" height="344" key="GridCell.Tab.1.bottom/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595139193305" />
-    <state width="1238" height="199" key="GridCell.Tab.1.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1595100913435" />
+    <state width="1238" height="138" key="GridCell.Tab.1.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597738492307" />
     <state width="1483" height="214" key="GridCell.Tab.1.bottom/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595197534891" />
     <state width="1238" height="199" key="GridCell.Tab.1.bottom/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637303" />
     <state width="1483" height="213" key="GridCell.Tab.1.bottom/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595205475109" />
-    <state width="1238" height="138" key="GridCell.Tab.1.center" timestamp="1595820608528">
+    <state width="1238" height="138" key="GridCell.Tab.1.center" timestamp="1597738492306">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="138" key="GridCell.Tab.1.center/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595820608528" />
     <state width="1483" height="213" key="GridCell.Tab.1.center/0.23.1280.708@0.23.1280.708" timestamp="1595210890145" />
     <state width="1878" height="248" key="GridCell.Tab.1.center/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595144517854" />
     <state width="1878" height="344" key="GridCell.Tab.1.center/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595139193301" />
-    <state width="1238" height="199" key="GridCell.Tab.1.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1595100913433" />
+    <state width="1238" height="138" key="GridCell.Tab.1.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597738492306" />
     <state width="1483" height="214" key="GridCell.Tab.1.center/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595197534889" />
     <state width="1238" height="199" key="GridCell.Tab.1.center/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637302" />
     <state width="1483" height="213" key="GridCell.Tab.1.center/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595205475108" />
-    <state width="1238" height="138" key="GridCell.Tab.1.left" timestamp="1595820608527">
+    <state width="1238" height="138" key="GridCell.Tab.1.left" timestamp="1597738492305">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="138" key="GridCell.Tab.1.left/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595820608527" />
     <state width="1483" height="213" key="GridCell.Tab.1.left/0.23.1280.708@0.23.1280.708" timestamp="1595210890145" />
     <state width="1878" height="248" key="GridCell.Tab.1.left/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595144517853" />
     <state width="1878" height="344" key="GridCell.Tab.1.left/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595139193300" />
-    <state width="1238" height="199" key="GridCell.Tab.1.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1595100913433" />
+    <state width="1238" height="138" key="GridCell.Tab.1.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597738492305" />
     <state width="1483" height="214" key="GridCell.Tab.1.left/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595197534888" />
     <state width="1238" height="199" key="GridCell.Tab.1.left/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637301" />
     <state width="1483" height="213" key="GridCell.Tab.1.left/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595205475107" />
-    <state width="1238" height="138" key="GridCell.Tab.1.right" timestamp="1595820608528">
+    <state width="1238" height="138" key="GridCell.Tab.1.right" timestamp="1597738492306">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state width="1238" height="138" key="GridCell.Tab.1.right/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595820608528" />
     <state width="1483" height="213" key="GridCell.Tab.1.right/0.23.1280.708@0.23.1280.708" timestamp="1595210890145" />
     <state width="1878" height="248" key="GridCell.Tab.1.right/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595144517855" />
     <state width="1878" height="344" key="GridCell.Tab.1.right/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595139193302" />
-    <state width="1238" height="199" key="GridCell.Tab.1.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1595100913434" />
+    <state width="1238" height="138" key="GridCell.Tab.1.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597738492306" />
     <state width="1483" height="214" key="GridCell.Tab.1.right/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595197534890" />
     <state width="1238" height="199" key="GridCell.Tab.1.right/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637303" />
     <state width="1483" height="213" key="GridCell.Tab.1.right/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595205475109" />
@@ -322,21 +450,21 @@
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="240" y="118" key="Vcs.Push.Dialog.v2/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595616315925" />
-    <state x="309" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1597696128031">
+    <state x="309" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1597892281626">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595781577331" />
     <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708@0.23.1280.708" timestamp="1594596320900" />
-    <state x="309" y="188" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597696128031" />
+    <state x="309" y="188" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597892281626" />
     <state x="1744" y="269" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595194482344" />
     <state x="410" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589951965663">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="410" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1589951965663" />
-    <state x="1360" y="37" width="1755" height="1040" key="dock-window-1" timestamp="1590473680481">
+    <state x="1602" y="23" width="962" height="688" key="dock-window-1" timestamp="1597974031896">
       <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state x="1360" y="37" width="1755" height="1040" key="dock-window-1/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590473680481" />
+    <state x="1602" y="23" width="962" height="688" key="dock-window-1/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597974031896" />
     <state x="1556" y="60" width="1472" height="971" key="dock-window-10" timestamp="1589434217203">
       <screen x="1280" y="23" width="1920" height="1057" />
     </state>
