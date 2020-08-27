@@ -2,6 +2,7 @@ package day48_Abstraction;
 
 public class Test implements Interface_Intro {
 
+
     @Override
     public void method1(){
 
@@ -14,5 +15,7 @@ public class Test implements Interface_Intro {
     public void method3(){
 
     }
+
+
 
 }

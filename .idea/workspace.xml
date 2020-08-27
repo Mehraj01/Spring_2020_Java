@@ -2,138 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f44d6bc-46b0-4eb8-8db6-b56f2d193798" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Method_&amp;_Constructors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Alphabet_AscenAndDescen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Alphabets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ArrayList_ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Array_Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Average_Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Break_Continue_St.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Calculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Calculate_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Calculater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Char_MultiDimensional_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ConvertString_WrapperClass_MaxMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Count_OddAndEven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Credentials.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Credentials_Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DateTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DateTimeFormatter_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DateTime_Formatting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Date_Time_Formatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DaysInMonth_MultiBranch_If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Days_InA_Week.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Days_In_Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Days_ofTheWeek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Descending_witShorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Divisible_ThreeAndFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/DoWhile_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Duplicate_Digits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/EvenNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Even_Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/EvensNums_1_100.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ExtractChars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/FactorialNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/FinMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/FindMaxMin_ofString_WrapperClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Find_J_K_Index.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Findra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/For_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Frequency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Frequency_SingleChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Frequency_String.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/IndexOf_Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/JavaBasics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Java_Python_Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/LongestShortest_Word.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Max_Min.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Max_Min_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/MiddleCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Middle_Character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Moths_ofTheYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/MultiDimensional_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/NestedLoop_Works.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Nested_ForEach_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Nested_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/NumberDivide_By2Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Post_Pre_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Primitive_Casting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/PrintNames_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Print_Birthdays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/RateCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/RemoveDuplicates_Chars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Revers_Palindrome_String.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/ReverseStringArray_toCharArray_Split.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/SkipPrinting_Followings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Start_End_Words.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/StringMethods_ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/StringToArray_SumOfDigit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/String_Array_Print3_Letters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/String_Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/SumOf_EvenAndOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Sum_Count_ofEvenOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Ternary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/TimeFormatting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/UniqueChars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/UniqueElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/Uniques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/While_Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/WrapperClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/YesOrNo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/birthday_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/breakStatement_IntsAndChars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/char_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/combineArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/combineTwo_StringArray_toArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/combinedTwoString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/convertString_toPrimitive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/convert_Gallons_Liters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/dates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/extractDigit_andLetters_fromString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/extractDigit_andLetters_fromString_Copy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/leapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/moveZeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/printGmail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_DuplicateCharacters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_Initials.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_OddEven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/print_lowercaseCharacters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/removeDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/removeFirstLetter_Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/replace_Concat_Trim_Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/sort_ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/startsWith_endsWith_Contains_Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/team.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/timer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/webEndsWith.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day33_CustomClass/ExtractChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day33_CustomClass/ExtractChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day33_CustomClass/carObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day33_CustomClass/carObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day40_Encapsulation/CredintialsObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day40_Encapsulation/CredintialsObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Date_Time_Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Date_Time_Formatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/DoWhile_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/DoWhile_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/For_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/For_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance/Inheritance_Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Inheritance_Introduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/JavaBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/JavaBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/MultiDimensional_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/MultiDimensional_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Nested_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Nested_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/CutomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/CutomClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/StringMethods_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/StringMethods_ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/String_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/String_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/While_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/While_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/WrapperClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day40_Encapsulation/CredintialsObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day40_Encapsulation/CredintialsObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day42_Inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day42_Inheritance/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Abstraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Constructors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/CustomMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Inheritance_Introduction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Inheritance/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day48_Abstraction/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_Abstraction/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +203,6 @@
     <state x="453" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1593129885095">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state x="453" y="72" key="#com.intellij.ide.util.MemberChooser/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1589585941040" />
     <state x="453" y="72" key="#com.intellij.ide.util.MemberChooser/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1593129885095" />
     <state x="474" y="274" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595704568701">
       <screen x="0" y="23" width="1280" height="708" />
@@ -347,7 +223,6 @@
     <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127628" />
     <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.23.1280.708/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597536782208" />
     <state width="1483" height="213" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1595210890144" />
-    <state width="1238" height="109" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589348205615" />
     <state width="1878" height="148" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786200" />
     <state width="1878" height="148" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595150179107" />
     <state width="1238" height="152" key="GridCell.Tab.0.bottom/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079069" />
@@ -361,7 +236,6 @@
     <state width="1238" height="142" key="GridCell.Tab.0.center/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127627" />
     <state width="1238" height="142" key="GridCell.Tab.0.center/0.23.1280.708/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597536782198" />
     <state width="1483" height="213" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1595210890143" />
-    <state width="1238" height="109" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589348205613" />
     <state width="1878" height="148" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786198" />
     <state width="1878" height="148" key="GridCell.Tab.0.center/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595150179104" />
     <state width="1238" height="152" key="GridCell.Tab.0.center/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079066" />
@@ -375,7 +249,6 @@
     <state width="1238" height="142" key="GridCell.Tab.0.left/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127626" />
     <state width="1238" height="142" key="GridCell.Tab.0.left/0.23.1280.708/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597536782198" />
     <state width="1483" height="213" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1595210890143" />
-    <state width="1238" height="109" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589348205612" />
     <state width="1878" height="148" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786197" />
     <state width="1878" height="148" key="GridCell.Tab.0.left/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595150179103" />
     <state width="1238" height="152" key="GridCell.Tab.0.left/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079066" />
@@ -389,7 +262,6 @@
     <state width="1238" height="142" key="GridCell.Tab.0.right/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127627" />
     <state width="1238" height="142" key="GridCell.Tab.0.right/0.23.1280.708/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597536782201" />
     <state width="1483" height="213" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1595210890144" />
-    <state width="1238" height="109" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589348205614" />
     <state width="1878" height="148" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595149786199" />
     <state width="1878" height="148" key="GridCell.Tab.0.right/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595150179105" />
     <state width="1238" height="152" key="GridCell.Tab.0.right/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079067" />
@@ -450,36 +322,29 @@
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="240" y="118" key="Vcs.Push.Dialog.v2/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595616315925" />
-    <state x="309" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1597892281626">
+    <state x="309" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1598511336722">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595781577331" />
     <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708@0.23.1280.708" timestamp="1594596320900" />
-    <state x="309" y="188" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597892281626" />
+    <state x="309" y="188" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1598511336722" />
     <state x="1744" y="269" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595194482344" />
     <state x="410" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589951965663">
       <screen x="0" y="23" width="1280" height="708" />
     </state>
     <state x="410" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1589951965663" />
-    <state x="1602" y="23" width="962" height="688" key="dock-window-1" timestamp="1597974031896">
+    <state x="1346" y="23" width="1051" height="1051" key="dock-window-1" timestamp="1598518475555">
       <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state x="1602" y="23" width="962" height="688" key="dock-window-1/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597974031896" />
-    <state x="1556" y="60" width="1472" height="971" key="dock-window-10" timestamp="1589434217203">
+    <state x="1346" y="23" width="1051" height="1051" key="dock-window-1/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1598518475555" />
+    <state x="2236" y="23" width="950" height="1057" key="dock-window-2" timestamp="1598511471073">
       <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state x="1556" y="60" width="1472" height="971" key="dock-window-10/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1589434217203" />
-    <state x="1432" y="54" width="1267" height="821" key="dock-window-11" timestamp="1589434666231">
-      <screen x="1280" y="23" width="1920" height="1057" />
+    <state x="2236" y="23" width="950" height="1057" key="dock-window-2/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1598511471073" />
+    <state x="488" y="93" width="1201" height="707" key="dock-window-3" timestamp="1598526501028">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="1432" y="54" width="1267" height="821" key="dock-window-11/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1589434666231" />
-    <state x="1487" y="23" width="967" height="688" key="dock-window-2" timestamp="1590118144822">
-      <screen x="1280" y="23" width="1920" height="1057" />
-    </state>
-    <state x="1487" y="23" width="967" height="688" key="dock-window-2/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590118144822" />
-    <state x="1345" y="57" width="1111" height="818" key="dock-window-3" timestamp="1590119609937">
-      <screen x="1280" y="23" width="1920" height="1057" />
-    </state>
+    <state x="488" y="93" width="1201" height="707" key="dock-window-3/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1598526501028" />
     <state x="1345" y="57" width="1111" height="818" key="dock-window-3/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590119609937" />
     <state x="1546" y="47" width="1305" height="883" key="dock-window-4" timestamp="1590120148269">
       <screen x="1280" y="23" width="1920" height="1057" />
@@ -500,12 +365,10 @@
     <state x="1623" y="88" width="967" height="688" key="dock-window-8" timestamp="1590126155300">
       <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state x="1280" y="0" width="1920" height="1080" key="dock-window-8/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589347571723" />
     <state x="1623" y="88" width="967" height="688" key="dock-window-8/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590126155300" />
     <state x="1336" y="86" width="1235" height="885" key="dock-window-9" timestamp="1590126568844">
       <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state x="1280" y="0" width="1920" height="1080" key="dock-window-9/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589348086767" />
     <state x="1336" y="86" width="1235" height="885" key="dock-window-9/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590126568844" />
     <state x="34" y="23" key="new project wizard" timestamp="1590191085633">
       <screen x="0" y="23" width="1280" height="708" />
