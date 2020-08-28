@@ -1,4 +1,4 @@
-package MyOwnLibrary.Notes;
+package MyOwnLibrary.trash;
 
 /*
 >>>> String Class: presented in "java.lang" package, any class in package "java.lang" will be imported automatically

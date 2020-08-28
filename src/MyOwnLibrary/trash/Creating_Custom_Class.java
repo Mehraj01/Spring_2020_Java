@@ -1,4 +1,4 @@
-package MyOwnLibrary.Notes;
+package MyOwnLibrary.trash;
 /*
 
 -> Primitive data Types

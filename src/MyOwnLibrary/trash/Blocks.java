@@ -1,4 +1,4 @@
-package MyOwnLibrary.Notes;
+package MyOwnLibrary.trash;
 
 /*
 
@@ -42,18 +42,6 @@ package MyOwnLibrary.Notes;
 
 
 ========================================================================================================================
-
--> regular methods:
-                                        MUST          MUST
-        Access-modifers   specifier   return-type  methodName(Parameter){
-                statements;
-        }
-
-        Access modifiers: public, protected, default, private
-        specifiers: static, abstract, final, synchronized
-        return-type: void, any primitve and none primitives
-        methodName: any name
-        parameter: any datatype
 
 
 
