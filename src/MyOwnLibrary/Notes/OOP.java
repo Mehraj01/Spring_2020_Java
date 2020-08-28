@@ -298,6 +298,17 @@ chrome  firefox   opera     ->  WebDriver driver = new ChromeDriver();
                  2. way -> ((Dog)animal).bark();
 
 
+--> Static Polymorphism, Compile Time Polymorphism,  Static Binding
+      - Method Overloading
+      - In static polymorphism, if we call a method in our code then which definition of that method is to
+        be called actually is resolved at compile time only.
+      - At compile time, Java knows which method to invoke by checking the method signatures.
+        So, this is called compile-time polymorphism or static binding.
+
+--> Dynamic Polymorphism, simple Polymorphism,  Runtime Method Dispatch,  Dynamic Binding
+      - Method Overriding
+      - At run time, Java waits until runtime to determine which object is actually being pointed to by the reference.
+        Method resolution was taken at runtime, due to that we call as run time polymorphism.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
