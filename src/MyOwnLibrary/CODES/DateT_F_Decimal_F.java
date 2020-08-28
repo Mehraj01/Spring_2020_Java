@@ -1,74 +1,82 @@
 package MyOwnLibrary.CODES;/*
 
-LocalDate ==> used for creating date (year, month, day)
-     Default pattern: ==> year/month/day
 
-     LocalDate.of();
-     LocalDate.now();
-
-     For ex:
-     LocalDate date=LocalDate.of(year,moth, day);
-     LocalDate now=LocalDate.now(); // current Day
-
-===> import java.time.LocalDate;
-
-==> Methods:   Returns boolean
-    - isAfter(); ==> date1.isAfter(date2);
-    - isBefore();
-    - isEqual();
-    - isLeapYear(); ==> Date.isLeapYear();
-
-    - toString(); ==> String str=now.toString();
-
-==> import java.time.format.DateTimeFormatter;
-
-    - DateTimeFormatter dtf = DateTimeFormatter.ofPattern ("MM/dd/yyyy") ==> exp: 04/25/2020
-
-    - year ==> yy, yyyy
-    - month ==> MM (number), MMM (three letters), MMMM (full name)
-    - days ==> dd
-    - days ==> E (three letter), EEEE (Full name)
-    - hours ==> hh
-    - minutes ==> mm
-    - second ==> ss
-    - am/pm ==> a
-
-    Exp:
-    LocalDate date1 = LocalDate.now();// ==> current date
-    System.out.println(date1.format(dtf) ); ==> means date1 will be printed dtf format
-
-    - format (DateTimeFormatter); ==> Returns boolean
-
-    LocalDate date2 = LocalDateOf(1999, 11, 25 );
-    String str = date2.format(dtf);
-    System.out.println(str );
+-> DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MMM/yyyy");  -> 26/May/2020
+                         = DateTimeFormatter.ofPattern("E MMMM/dd/yy"); -> Thu November/25/99
+                         = DateTimeFormatter.ofPattern("hh:mm:ss a"); -> 09:30:30 AM
+                         = DateTimeFormatter.ofPattern("EEE, MM/dd hh:mm a"); -> Fri, 12/25 11:30 PM
 
 
-    - LocalTime now = LocalTime.now(): ==> returns current time
-    - LocalTime time1 = LocalTime.of(hour, min, second);
-    - LocalDateTime ==> combination of LocalDate and LocalTime
-      exp:
-      LocalDateTime dt = LocalDateTime.now(); ==> current date and time
-      LocalDateTime dt2 = LocalDateTime.of(localDate, LocalTime);
-      LocalDateTime dt = LocalDateTime.of(year, month, days, hours min, second);
+-> LocalDate date = LocalDate.now(); -> 2020-08-28
+   LocalDate birthday = LocalDate.of(2020, 12, 25);
+
+-> LocalTime time = LocalTime.of(9,30, 30);
+   LocalTime time = LocalTime.now();
+
+-> LocalDateTime datetime = LocalDateTime.of(2015, 12, 25, 23,30,45);  -> 2015-12-25T23:30:45
+
+
+-> boolean result = date.isAfter(birthday);
+                 = date.isBefore(birthday);
+                 = date1.isEqual(birthday);
+                 = birthday.isLeapYear();
+
+-> System.out.println(date.format(dtf) );
+-> System.out.println(result);
+-> LocalDate[] birthdays = {JohnBirthday, AaronBirthday, DanielBirthday};
+
+
+-> Format Options:
+    - year -> yy, yyyy
+    - month -> MM (number), MMM (three letters), MMMM (full name)
+    - days -> dd
+    - days -> E (three letter), EEEE (Full name)
+    - hours -> hh
+    - minutes -> mm
+    - second -> ss
+    - am/pm -> a
+
+-> import java.time.LocalDate;
+   import java.time.LocalDateTime;
+   import java.time.LocalTime;
+   import java.time.format.DateTimeFormatter;
+
+
 
 
 
 */
+//System.out.println("===============================================================================================");
 
-
+import java.text.DecimalFormat;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
+public class DateT_F_Decimal_F { }
 
-public class Date_Time_Formatter {
+class DecimalFormatter{
     public static void main(String[] args) {
 
+        // import java.text.DecimalFormat;
 
+        // - rounding the decimals
+        // - DecimalFormat DF=new DecimalFormat();// result: ->  3.333
+        DecimalFormat DF=new DecimalFormat("0.00");// result: -> 3.33
+
+        double a=10.0/3.0;
+        System.out.println(a);
+        System.out.println(DF.format(a));
+
+        System.out.println(2.3467899);
+        // - when you round the number u hav to check the second and third decimal.
+        // If its bigger it will be rounded to the bigger number.
+        System.out.println(DF.format(2.3467899));
 
     }
 }
+
+//System.out.println("===============================================================================================");
 
 class DateTimeFormatter_1{
     public static void main(String[] args) {
@@ -78,9 +86,11 @@ class DateTimeFormatter_1{
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MMM/yyyy");
 
         LocalDate date1 = LocalDate.now(); // Prints current  year/month/day
+        System.out.println(date1); // 2020-08-28
 
         //  Prints current day/month/year in format of ==> dft
         System.out.println(date1.format(dtf) ); //Prints 26/May/2020
+
 
 
 System.out.println("********************************************************");
@@ -119,6 +129,7 @@ class dates{
 
         LocalDate birthday = LocalDate.of(2020, 12, 25);
         System.out.println(birthday);
+
 
         // isAfter(date2)
         boolean result1 =    date1.isAfter(birthday);

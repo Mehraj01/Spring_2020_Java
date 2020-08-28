@@ -338,7 +338,6 @@ chrome  firefox   opera     ->  WebDriver driver = new ChromeDriver();
 				1. variables: cannot be reassigned
 				            - Finale instance variable needs to be initialize immediately
 				            - Final static variables need to be initialized immediately
-				            - Cannot be reassign
 				2. methods: implementation of the method can never be changed
 							- final, static methods cannot be override, can be overload
 							- instance , static method can be final
