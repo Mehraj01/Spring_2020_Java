@@ -74,16 +74,20 @@ its own fields and methods in addition to the superclass fields and methods.
         - Dog IS An Animal
 		class Fish extends Animal{...}  ---> Sub Class
         - Fish IS An animal
+        - For IS-A relationship we uses extends keyword. -> Ex : Car is a vehicle.
+        - The main advantage of inheritance is reusability of code
 
---> Has A relation:
+--> Has A relation: also known as composition or aggregation.
 	   class Engine{...}
 	   class Car{
 	   Engine obj = new Engine();
 	   }
 	   Car Has An Engine
+	  - For Has a relationship we use new keyword -> Ex : Car has an engine. We cannot say Car is an engine
 	  - When I create one class object in another class which does not have a IS-A relationship it calls Has-A relationship
 	  - In above example we created a HAS-A Relationship
 	  - In that way we can invoke methods of the Engine class to our car class.
+	  - The main advantage of has a relationship is reusability of code.
 
 
 --> Constructor Calls:
@@ -126,7 +130,7 @@ its own fields and methods in addition to the superclass fields and methods.
        - two ways of achieving abstraction: -> 1. abstract class, 2. Interface
 
 
---> abstract class: -> can NOT be FINAL, can NOT create object
+--> abstract CLASS: -> can NOT be FINAL, can NOT create object
       - a class that's meant to be inherited, extend
 	  - we cannot create objects from abstract class. Because abstract is not concrete, object has to be concrete.
 	  - Abstract class and interface are meant to be reference type, CAN NEVER BE IN OBJECT TYPE
@@ -142,7 +146,7 @@ its own fields and methods in addition to the superclass fields and methods.
 		- can not: -> abstract methods
 
 
---> abstract method: -> can NOT be final, private, static
+--> abstract METHOD: -> can NOT be final, private, static
       - a method without body/implementation ==> public abstract void method();
 	  - a method that's meant to be override. It is mandatory to override the abstract super class method in the subclass
 	  - We have to override the abstract class method in the non-abstract class.

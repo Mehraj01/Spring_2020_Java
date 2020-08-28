@@ -1,8 +1,8 @@
-package MyOwnLibrary.Notes;
+package MyOwnLibrary.trash;
 /*
 
  -> Arrays:
-- Represent by square bracket [] on declaration.
+
 - Can Hold multiple value or same type : -> Primitives or reference type.
 - Array is fixed size, can not add more items or take out items.
 - Array Object can not be printed out directly to display all the elements
@@ -30,6 +30,7 @@ In order to work with data more efficiently Java provides Collection Framework.
 - Storing any type is possible but recommended to store only 1 type
       - syntax 1: -> ArrayList<Type> list1 = new ArrayList<>();
       - syntax 2: -> List<Type> list1= new ArrayList<>();  ==> Using List as reference Type (Polymorphism)
+
 
 
    --> ArrayList VS Array

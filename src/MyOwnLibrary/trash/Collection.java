@@ -1,4 +1,4 @@
-package MyOwnLibrary.Notes;
+package MyOwnLibrary.trash;
 /*
 -> There is 3 different Data Structures:
    Data Structures is for maintain, manage data efficiently and in an organized manner.

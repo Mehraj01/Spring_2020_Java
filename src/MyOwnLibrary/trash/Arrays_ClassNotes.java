@@ -1,4 +1,4 @@
-package MyOwnLibrary.Notes;// ARRAYS NOTES
+package MyOwnLibrary.trash;// ARRAYS NOTES
 /*
 
 >> Three Data Structures: ==>  1. Array      2. Collection    3. Maps
