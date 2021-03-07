@@ -18,9 +18,9 @@ public class Practice {
     public static void main(String[] args) {
         String str = "ABABABCDEF";// ABCDEF
         String[] arr = str.split("");
-        //System.out.println(Arrays.asList(arr));
-        // LinkedHashSet dosent accept duplicates
-        str = new LinkedHashSet<>(Arrays.asList(arr)).toString().replace(", ", "");
+        System.out.println(Arrays.asList(arr));
+        // LinkedHashSet dose not accept duplicates
+       // str = new LinkedHashSet<>(Arrays.asList(arr)).toString().replace(", ", "");
         System.out.println(str);
 
 

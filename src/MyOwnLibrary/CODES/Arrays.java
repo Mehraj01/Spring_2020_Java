@@ -602,8 +602,8 @@ class Even_Numbers{
 
         int[] numbers = new int[100]; // index: 0 ~ 99,
 
-        for (int i = 0; i < numbers.length; i++) {
-            numbers[i] = i + 1;  // assigning 1~ 100
+        for (int i = 0; i <numbers.length; i++) {
+            numbers[i] = i+1 ;  // assigning 1~ 100
         }
         System.out.println(java.util.Arrays.toString(numbers)); // 1, 2, 3, 4, 5...
 

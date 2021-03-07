@@ -459,6 +459,28 @@ class moveZeros{
         }
         System.out.println(list3);
 
+        System.out.println("==============================================================");
+
+
+
+        Integer arr[]={1,0,2,0,3,0};
+
+        java.util.ArrayList<Integer> list5=new java.util.ArrayList<>(Arrays.asList(arr));
+
+//        for(int i=0; i<arr.length; i++){
+//            list.add(arr[i]);
+//        }
+
+        for(int i=0; i<list5.size(); i++){
+            if(list5.get(i)==0){
+                list5.remove(i);
+                list5.add(0);
+            }
+        }
+        System.out.println(list5);
+
+
+
 
     }
 }

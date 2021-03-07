@@ -295,7 +295,7 @@ class webEndsWith{
 
 
 
-// Methods Practice
+// Methods PracticeTasks.Practice
 //**********************************************************************************************************************
 class IndexOf_Method{
     public static void main(String[] args) {

@@ -31,6 +31,7 @@ How To Find the Two String Contains Same Letter?
         Arrays.sort(ch1);
         Arrays.sort(ch2);
 
+        //String word=ch1.toString();
 
         String str1="";
         String str2="";
@@ -55,6 +56,9 @@ How To Find the Two String Contains Same Letter?
 //System.out.println("===============================================================================================");
 
     public static boolean same2(String c, String d ){
+
+
+
 
 
 

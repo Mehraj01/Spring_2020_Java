@@ -157,11 +157,13 @@ The ‘data’ field stores actual piece of information and ‘link’ field is 
 
 
 --> COLLECTIONS: ->  is a utility class of COLLECTION framework. -> import java.util.Collections;
-      - SynchronizedList(list); ->
-      - sort(CollectionType); -> sorting any given collectionType in Ascending order ==> Collections.sort(ArrayListName);
-      - frequency(CollectionType, Object); -> returns the frequency of the given object from the given collectionType
-      - min(CollectionType); -> return the min object from collectionType
-      - swap(CollectionType, index1, index2); ->  swaps the elements at the given indexes from the collectionType
+      - Collections.SynchronizedList(list); ->
+      - Collections.sort(CollectionType); -> sorting any given collectionType in Ascending order ==> Collections.sort(ArrayListName);
+      - Collections.frequency(CollectionType, Object); -> returns the frequency of the given object from the given collectionType
+      - Collections.min(CollectionType); -> return the min object from collectionType
+      - Collections.max(list);
+      - Collections.swap(CollectionType, index1, index2); ->  swaps the elements at the given indexes from the collectionType
+      - Collections.replaceAll("Moon","Uranus");
 
 
 
@@ -189,7 +191,7 @@ The ‘data’ field stores actual piece of information and ‘link’ field is 
 
 --> Bulk Operations
        - removeAll(); -> removes multiple objects, removes all the matching objects
-       - retainAll(); -> removes all the un-matching objects anw will keep the matching ones
+       - retainAll(); -> removes all the un-matching objects and will keep the matching ones
        - addAll(); -> adds multiple objects, adds all the objects from given collection type
        - containsAll(); ->  verifies if all objects in CollectionType are contained in the list or not. Returns boolean
        - replaceAll(CollectionType, oldValue, newValue): -> Collections.replaceAll(list, 1, 10);
@@ -320,7 +322,7 @@ Ex:
  - Need bigger memory space                    - Light-weight, require less space
 
 
---> We can create wrapper object using corresponding primitive value or is a Sting value.
+--> We can create wrapper object using corresponding primitive value or is a String value.
     - Boolean b = new Boolean(true);   or  Boolean b = new Boolean("true");
     - Character c = new Character('c');
     - Byte d = new Byte ((byte), 123); or  Byte d = new Byte ("123");

@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 public class Lambda_Expressions {
     public static void main(String[] args) {
 
-        Predicate<Integer>oddNumber=x -> x % 2 !=0;
+        Predicate <Integer> oddNumber = x -> x % 2 !=0;
         ArrayList<Integer> list=new ArrayList<>( Arrays.asList(1,3,2,4,5,10,6,9,8));
         list.removeIf(oddNumber);// removeIf() -> only accept predicate
         System.out.println(list);
@@ -15,7 +15,7 @@ public class Lambda_Expressions {
         System.out.println("============================================");
 
         ArrayList<Integer> list2=new ArrayList<>( Arrays.asList(1,3,2,4,5,10,6,9,8));
-        Predicate<Integer>num1=p -> p<5;
+        Predicate<Integer>num1 = p -> p<5;
         list2.removeIf(num1);
         System.out.println(list2);
 

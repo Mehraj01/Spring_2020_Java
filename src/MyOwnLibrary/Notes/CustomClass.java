@@ -7,7 +7,6 @@ package MyOwnLibrary.Notes;
 --> CLASS: Where Objects Come From
      - A class is an entity that determines how an object will behave and what the object will contain.
      - A class is a blueprint or set of instruction to build a specific type of object.
-     - Class is where the objects came from , determines how the object should behave
      - Class itself is not concrete -> means it is not physically real. But we can create object from class
 
 --> OBJECTS: Object is created out of the class
@@ -47,7 +46,7 @@ package MyOwnLibrary.Notes;
      - Compiler calls it automatically
 
 --> Java Memory Allocation. -> Java Runtime Environment
-      ->  Stack is a section of memory which contains methods, local variables, and reference variables.
+      ->  Stack is a section of memory which contains methods, local variables, and reference variables. // Other than primitive variable calls reference variables
                  - Methods, Local variables, Reference variables
       -> Heap is a section of memory which contains Objects. Instance variables are created in the heap.
                  - Objects, Instance Variables

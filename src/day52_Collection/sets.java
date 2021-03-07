@@ -49,7 +49,7 @@ public class sets {
         // TreeSet(C): does not accept duplicates, and sort the objects
         // TreeSet does not accept null
         Set<Integer> numbers = new TreeSet<>();
-        numbers.addAll( Arrays.asList(10,9,10, 9, 8, 7, 8, 7, 6, 5, 6));
+        numbers.addAll( Arrays.asList(10,9,10, 9, 8, 7, 8, 7, 6, 5, 3));
 
         System.out.println(numbers);
 
@@ -61,7 +61,7 @@ public class sets {
         //HashSet is faster than TreeSet
         HashSet<Integer> numbers2 = new HashSet<>();
         numbers2.addAll( Arrays.asList(10,9,10, 9, 8, 7, 8, 7, 6, 5, 6));
-        System.out.println(numbers2);
+        System.out.println(numbers2+" HashSet" );
 
 
         HashSet<String> hashSet = new HashSet<>();

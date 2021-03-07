@@ -8,6 +8,7 @@ public class Move_Zeros {
     public static void main(String[] args) {
 
         int arr[]={1,0,4,0,5,0,7,0};
+
         System.out.println(Arrays.toString( moveZeros(arr)));
 
     }
@@ -39,6 +40,23 @@ public class Move_Zeros {
     }
 //System.out.println("===============================================================================================");
 
+    public static Integer[]moveZeros2(Integer []num){
+
+        ArrayList<Integer> list=new ArrayList<>(Arrays.asList(num));
+        for (int i = 0; i < list.size(); i++) {
+            if(list.get(i)==0) {
+                list.remove(i);
+                list.add(0);
+            }
+        }
+        num=new  Integer[num.length];
+        for (int i = 0; i <num.length ; i++) {
+            num[i]=list.get(i);
+        }
+        //System.out.println(list);
+
+        return num;
+    }
 }
 
 

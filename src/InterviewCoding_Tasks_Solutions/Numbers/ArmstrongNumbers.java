@@ -4,7 +4,7 @@ public class ArmstrongNumbers {
 
     public static void main(String[] args) {
 //Write a method that can check if a number is Armstrong  number
-        boolean a=ArmStrongNumber(1634);
+        boolean a=ArmStrongNumber(370);
         System.out.println(a);
 
     }

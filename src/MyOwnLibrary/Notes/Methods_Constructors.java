@@ -52,7 +52,7 @@ package MyOwnLibrary.Notes;
       - we can static method everywhere
       - we can call instance, static methods in constructor
       - we can overload constructor using different parameters.
-      - we can call instance, static methods in constructor
+
 
 --> Regular methods:                   MUST          MUST
         - Access-modifier specifier return-type  methodName(Parameter){  statements;  }
@@ -97,6 +97,9 @@ If we want to initialize fields of the class with our own values, then we pass p
      public > protected > default > private
 
 
+
+--> Specifiers:
+    static, final, abstract, synchronized
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

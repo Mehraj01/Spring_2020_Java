@@ -23,7 +23,7 @@ public class Factorial_Number {
        // Factorial Number; 5! = 5*4*3*2*1=120
 
 
-        int result = 1;
+        int result = 1; // it has to start with 1 because every time resu;t will be multiply with i
         for(int i = 1; i <= n; i++){
             result = result * i; // 1*1 , 1*2, 2*3, 6*4, 24*5
         }

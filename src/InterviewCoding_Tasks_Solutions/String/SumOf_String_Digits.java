@@ -13,6 +13,7 @@ public class SumOf_String_Digits {
 
     public static int sumOdDigit(String num){
 
+
         char[]arr=num.toCharArray();
         int result=0;
 

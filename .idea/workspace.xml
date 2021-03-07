@@ -3,17 +3,100 @@
   <component name="ChangeListManager">
     <list default="true" id="9f44d6bc-46b0-4eb8-8db6-b56f2d193798" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Arrays/Move_Zeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Arrays/Move_Zeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/ArmstrongNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/ArmstrongNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/DivideWithout_Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/DivideWithout_Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/FINDRA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/FINDRA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/FibonacciNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/FibonacciNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/Numbers/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/String/Remove_Duplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/String/Remove_Duplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/String/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/String/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/String/Same_Letters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/String/Same_Letters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/String/SumOf_String_Digits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/InterviewCoding_Tasks_Solutions/String/SumOf_String_Digits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/META-INF/Srping2020B18_Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Alphabet_AscenAndDescen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Alphabets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Calculate_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Calculater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DateT_F_Decimal_F.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DateT_F_Decimal_F.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DateTime.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DateTimeFormatter_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DateTimeFormatter_1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DateTime_Formatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DateTime_Formatting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Date_Time_Formatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DecimalFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/DecimalFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Divisible_ThreeAndFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Duplicate_Digits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Duplicate_Digits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/ExtractChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/ExtractChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Findra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/For_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Frequency_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Max_Min.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Print_Birthdays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Print_Birthdays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/RemoveDuplicates_Chars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Revers_Palindrome_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/SkipPrinting_Followings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/SumOf_EvenAndOdd.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Time.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/TimeFormatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/TimeFormatting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/Uniques.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/birthday_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/birthday_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/breakStatement_IntsAndChars.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/dates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/dates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Date_Time_Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/DateT_F_Decimal_F.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/moveZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/moveZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/print_DuplicateCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/print_DuplicateCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/MyOwnLibrary/CODES/print_OddEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/Questions01_String/String_FrequencyOfChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/birObirBu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/commonDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day01_FirstProgramming/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day01_FirstProgramming/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day37_Constructors/StudentsObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day37_Constructors/StudentsObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day40_Encapsulation/Person_Objects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day40_Encapsulation/Person_Objects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day52_Collection/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day52_Collection/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day52_Collection/Q.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day52_Collection/sets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Srping2020B18_Java/day52_Collection/sets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/mergeArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/practice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/practice3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/practice4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/practice5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/practice7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Srping2020B18_Java/prcatice5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Arrays/Move_Zeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Arrays/Move_Zeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/ArmstrongNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/ArmstrongNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/DivideWithout_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/DivideWithout_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/FINDRA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/FINDRA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/Factorial_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/Factorial_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/FibonacciNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/FibonacciNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/Numbers/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/Remove_Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/Remove_Duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/Same_Letters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/Same_Letters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/Sort_LettersAndNumbers_AlphanumericString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/Sort_LettersAndNumbers_AlphanumericString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/String_FrequencyOfChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/String_FrequencyOfChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/SumOf_String_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/String/SumOf_String_Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/For_Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/String_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/CODES/String_Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/CustomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/CustomClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Data_Structures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Data_Structures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Methods_Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/Methods_Constructors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/OOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOwnLibrary/Notes/OOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/trash/ArrayList_NOTES.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/trash/Arrays_ClassNotes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/trash/Blocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/trash/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/trash/Creating_Custom_Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/trash/GrabageCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyOwnLibrary/trash/String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeTasks/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/Lambda_Expressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/Lambda_Expressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/StudentsObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/StudentsObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_Encapsulation/Person_Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Person_Objects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Collection/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Collection/Q.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/Queue_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Collection/sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/sets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,26 +136,26 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance/Method_Overriding" />
+      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/MyOwnLibrary/trash" />
       <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Notes" />
       <recent name="$PROJECT_DIR$/src/MyOwnLibrary" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Resources" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance/Method_Overriding" />
-      <recent name="$PROJECT_DIR$/src/MyOwnLibrary/Inheritance" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.DateTime_Formatting">
-    <configuration name="DateTimeFormatter_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyOwnLibrary.CODES.DateTimeFormatter_1" />
+  <component name="RunManager" selected="Application.teskSystemTask2">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_2021.Array" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyOwnLibrary.CODES.*" />
+          <option name="PATTERN" value="Practice_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTime_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyOwnLibrary.CODES.DateTime_Formatting" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewCoding_Tasks_Solutions.String.Reverse" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyOwnLibrary.CODES.*" />
+          <option name="PATTERN" value="InterviewCoding_Tasks_Solutions.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyOwnLibrary.CODES.DecimalFormatter" />
+    <configuration name="SortTheMapValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewCoding_Tasks_Solutions.Map.SortTheMapValues" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyOwnLibrary.CODES.*" />
+          <option name="PATTERN" value="InterviewCoding_Tasks_Solutions.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyOwnLibrary.CODES.TimeFormatting" />
+    <configuration name="teskSystemTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_2021.teskSystemTask" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyOwnLibrary.CODES.*" />
+          <option name="PATTERN" value="Practice_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyOwnLibrary.CODES.dates" />
+    <configuration name="teskSystemTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_2021.teskSystemTask2" />
       <module name="Srping2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyOwnLibrary.CODES.*" />
+          <option name="PATTERN" value="Practice_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateTime_Formatting" />
-        <item itemvalue="Application.TimeFormatting" />
-        <item itemvalue="Application.dates" />
-        <item itemvalue="Application.DateTimeFormatter_1" />
-        <item itemvalue="Application.DecimalFormatter" />
+        <item itemvalue="Application.teskSystemTask2" />
+        <item itemvalue="Application.teskSystemTask" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.SortTheMapValues" />
       </list>
     </recent_temporary>
   </component>
@@ -200,207 +283,58 @@
     <option name="LAST_COMMIT_MESSAGE" value="All the packages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="151" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1597731451553">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state x="377" y="153" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1607220455578">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="377" y="151" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595813649353" />
-    <state x="1846" y="195" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595134841028" />
-    <state x="377" y="151" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597731451553" />
-    <state x="361" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594576128449">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state x="377" y="153" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1280.721@0.23.1280.721" timestamp="1607220455578" />
+    <state width="1223" height="99" key="GridCell.Tab.0.bottom" timestamp="1614841056446">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="361" y="187" key="#com.intellij.fileTypes.FileTypeChooser/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1594576128449" />
-    <state x="453" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1593129885095">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1238" height="87" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1614458974361" />
+    <state width="1223" height="99" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1614841056446" />
+    <state width="1223" height="99" key="GridCell.Tab.0.center" timestamp="1614841056446">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="453" y="72" key="#com.intellij.ide.util.MemberChooser/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1593129885095" />
-    <state x="474" y="274" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595704568701">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1238" height="87" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1614458974360" />
+    <state width="1223" height="99" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1614841056446" />
+    <state width="1223" height="99" key="GridCell.Tab.0.left" timestamp="1614841056445">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="474" y="274" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595704568701" />
-    <state x="378" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1594699956071">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1238" height="87" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1614458974360" />
+    <state width="1223" height="99" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1614841056445" />
+    <state width="1223" height="99" key="GridCell.Tab.0.right" timestamp="1614841056446">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="378" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1594699956071" />
-    <state x="248" y="23" key="CommitChangelistDialog2" timestamp="1595872715722">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1238" height="87" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1614458974361" />
+    <state width="1223" height="99" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1614841056446" />
+    <state width="1223" height="103" key="GridCell.Tab.1.bottom" timestamp="1614501877990">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="248" y="23" key="CommitChangelistDialog2/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595616303577" />
-    <state x="248" y="23" key="CommitChangelistDialog2/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1595872715722" />
-    <state width="1878" height="250" key="GridCell.Tab.0.bottom" timestamp="1598613796892">
-      <screen x="1280" y="0" width="1920" height="1080" />
+    <state width="1238" height="125" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1614458033284" />
+    <state width="1223" height="103" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1614501877990" />
+    <state width="1223" height="103" key="GridCell.Tab.1.center" timestamp="1614501877989">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127628" />
-    <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.23.1280.708/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597536782208" />
-    <state width="1483" height="213" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1595210890144" />
-    <state width="1878" height="250" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1598613796892" />
-    <state width="1878" height="250" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.23.1280.708@1280.0.1920.1080" timestamp="1598613307020" />
-    <state width="1878" height="250" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1598612480878" />
-    <state width="1238" height="152" key="GridCell.Tab.0.bottom/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079069" />
-    <state width="1238" height="142" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597900589105" />
-    <state width="971" height="229" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1598578946865" />
-    <state width="1238" height="199" key="GridCell.Tab.0.bottom/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637301" />
-    <state width="1783" height="115" key="GridCell.Tab.0.bottom/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358269" />
-    <state width="1878" height="250" key="GridCell.Tab.0.center" timestamp="1598613796890">
-      <screen x="1280" y="0" width="1920" height="1080" />
+    <state width="1238" height="125" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1614458033283" />
+    <state width="1223" height="103" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1614501877989" />
+    <state width="1223" height="103" key="GridCell.Tab.1.left" timestamp="1614501877989">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="142" key="GridCell.Tab.0.center/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127627" />
-    <state width="1238" height="142" key="GridCell.Tab.0.center/0.23.1280.708/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597536782198" />
-    <state width="1483" height="213" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1595210890143" />
-    <state width="1878" height="250" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1598613796890" />
-    <state width="1878" height="250" key="GridCell.Tab.0.center/1280.0.1920.1080/0.23.1280.708@1280.0.1920.1080" timestamp="1598613307018" />
-    <state width="1878" height="250" key="GridCell.Tab.0.center/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1598612480875" />
-    <state width="1238" height="152" key="GridCell.Tab.0.center/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079066" />
-    <state width="1238" height="142" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597900589103" />
-    <state width="971" height="229" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1598578946864" />
-    <state width="1238" height="199" key="GridCell.Tab.0.center/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637300" />
-    <state width="1783" height="115" key="GridCell.Tab.0.center/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358264" />
-    <state width="1878" height="250" key="GridCell.Tab.0.left" timestamp="1598613796889">
-      <screen x="1280" y="0" width="1920" height="1080" />
+    <state width="1238" height="125" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1614458033282" />
+    <state width="1223" height="103" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1614501877989" />
+    <state width="1223" height="103" key="GridCell.Tab.1.right" timestamp="1614501877990">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="142" key="GridCell.Tab.0.left/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127626" />
-    <state width="1238" height="142" key="GridCell.Tab.0.left/0.23.1280.708/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597536782198" />
-    <state width="1483" height="213" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1595210890143" />
-    <state width="1878" height="250" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1598613796889" />
-    <state width="1878" height="250" key="GridCell.Tab.0.left/1280.0.1920.1080/0.23.1280.708@1280.0.1920.1080" timestamp="1598613307016" />
-    <state width="1878" height="250" key="GridCell.Tab.0.left/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1598612480874" />
-    <state width="1238" height="152" key="GridCell.Tab.0.left/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079066" />
-    <state width="1238" height="142" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597900589102" />
-    <state width="971" height="229" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1598578946863" />
-    <state width="1238" height="199" key="GridCell.Tab.0.left/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637300" />
-    <state width="1783" height="115" key="GridCell.Tab.0.left/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358263" />
-    <state width="1878" height="250" key="GridCell.Tab.0.right" timestamp="1598613796891">
-      <screen x="1280" y="0" width="1920" height="1080" />
+    <state width="1238" height="125" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1614458033283" />
+    <state width="1223" height="103" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1614501877990" />
+    <state x="309" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1614789436702">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="142" key="GridCell.Tab.0.right/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1597546127627" />
-    <state width="1238" height="142" key="GridCell.Tab.0.right/0.23.1280.708/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597536782201" />
-    <state width="1483" height="213" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1595210890144" />
-    <state width="1878" height="250" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1598613796891" />
-    <state width="1878" height="250" key="GridCell.Tab.0.right/1280.0.1920.1080/0.23.1280.708@1280.0.1920.1080" timestamp="1598613307019" />
-    <state width="1878" height="250" key="GridCell.Tab.0.right/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1598612480876" />
-    <state width="1238" height="152" key="GridCell.Tab.0.right/1280.23.1920.1053/0.23.1280.777@0.23.1280.777" timestamp="1591501079067" />
-    <state width="1238" height="142" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597900589104" />
-    <state width="971" height="229" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1598578946865" />
-    <state width="1238" height="199" key="GridCell.Tab.0.right/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637301" />
-    <state width="1783" height="115" key="GridCell.Tab.0.right/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595207358267" />
-    <state width="1238" height="138" key="GridCell.Tab.1.bottom" timestamp="1597738492307">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state x="309" y="192" key="com.intellij.ide.util.TipDialog/0.23.1280.721@0.23.1280.721" timestamp="1614789436702" />
+    <state x="302" y="81" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1614644307908">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="138" key="GridCell.Tab.1.bottom/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595820608529" />
-    <state width="1483" height="213" key="GridCell.Tab.1.bottom/0.23.1280.708@0.23.1280.708" timestamp="1595210890145" />
-    <state width="1878" height="248" key="GridCell.Tab.1.bottom/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595144517857" />
-    <state width="1878" height="344" key="GridCell.Tab.1.bottom/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595139193305" />
-    <state width="1238" height="138" key="GridCell.Tab.1.bottom/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597738492307" />
-    <state width="1483" height="214" key="GridCell.Tab.1.bottom/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595197534891" />
-    <state width="1238" height="199" key="GridCell.Tab.1.bottom/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637303" />
-    <state width="1483" height="213" key="GridCell.Tab.1.bottom/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595205475109" />
-    <state width="1238" height="138" key="GridCell.Tab.1.center" timestamp="1597738492306">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state width="1238" height="138" key="GridCell.Tab.1.center/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595820608528" />
-    <state width="1483" height="213" key="GridCell.Tab.1.center/0.23.1280.708@0.23.1280.708" timestamp="1595210890145" />
-    <state width="1878" height="248" key="GridCell.Tab.1.center/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595144517854" />
-    <state width="1878" height="344" key="GridCell.Tab.1.center/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595139193301" />
-    <state width="1238" height="138" key="GridCell.Tab.1.center/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597738492306" />
-    <state width="1483" height="214" key="GridCell.Tab.1.center/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595197534889" />
-    <state width="1238" height="199" key="GridCell.Tab.1.center/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637302" />
-    <state width="1483" height="213" key="GridCell.Tab.1.center/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595205475108" />
-    <state width="1238" height="138" key="GridCell.Tab.1.left" timestamp="1597738492305">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state width="1238" height="138" key="GridCell.Tab.1.left/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595820608527" />
-    <state width="1483" height="213" key="GridCell.Tab.1.left/0.23.1280.708@0.23.1280.708" timestamp="1595210890145" />
-    <state width="1878" height="248" key="GridCell.Tab.1.left/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595144517853" />
-    <state width="1878" height="344" key="GridCell.Tab.1.left/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595139193300" />
-    <state width="1238" height="138" key="GridCell.Tab.1.left/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597738492305" />
-    <state width="1483" height="214" key="GridCell.Tab.1.left/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595197534888" />
-    <state width="1238" height="199" key="GridCell.Tab.1.left/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637301" />
-    <state width="1483" height="213" key="GridCell.Tab.1.left/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595205475107" />
-    <state width="1238" height="138" key="GridCell.Tab.1.right" timestamp="1597738492306">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state width="1238" height="138" key="GridCell.Tab.1.right/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595820608528" />
-    <state width="1483" height="213" key="GridCell.Tab.1.right/0.23.1280.708@0.23.1280.708" timestamp="1595210890145" />
-    <state width="1878" height="248" key="GridCell.Tab.1.right/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1595144517855" />
-    <state width="1878" height="344" key="GridCell.Tab.1.right/1280.0.1920.1080/0.23.1280.777@1280.0.1920.1080" timestamp="1595139193302" />
-    <state width="1238" height="138" key="GridCell.Tab.1.right/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1597738492306" />
-    <state width="1483" height="214" key="GridCell.Tab.1.right/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1595197534890" />
-    <state width="1238" height="199" key="GridCell.Tab.1.right/1280.23.1920.988/0.23.1280.708@0.23.1280.708" timestamp="1590731637303" />
-    <state width="1483" height="213" key="GridCell.Tab.1.right/1280.23.1920.988/0.23.1280.777@1280.23.1920.988" timestamp="1595205475109" />
-    <state x="223" y="23" width="982" height="708" key="SettingsEditor" timestamp="1595705465103">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state x="223" y="23" width="982" height="708" key="SettingsEditor/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595705465103" />
-    <state x="223" y="23" width="982" height="708" key="SettingsEditor/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1594670710518" />
-    <state x="240" y="118" key="Vcs.Push.Dialog.v2" timestamp="1595616315925">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state x="240" y="118" key="Vcs.Push.Dialog.v2/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595616315925" />
-    <state x="1744" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1598565402680">
-      <screen x="1280" y="23" width="1920" height="1057" />
-    </state>
-    <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1595781577331" />
-    <state x="309" y="189" key="com.intellij.ide.util.TipDialog/0.23.1280.708@0.23.1280.708" timestamp="1594596320900" />
-    <state x="309" y="188" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1598511336722" />
-    <state x="1744" y="269" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1598565402680" />
-    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598577897105">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1598577897105" />
-    <state x="410" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589951965663">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state x="410" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1589951965663" />
-    <state x="12" y="23" width="1280" height="777" maximized="true" key="dock-window-1" timestamp="1598565869441">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state x="12" y="23" width="1280" height="777" maximized="true" key="dock-window-1/1280.0.1920.1080/0.23.1280.708@1280.0.1920.1080" timestamp="1598565869441" />
-    <state x="1346" y="23" width="1051" height="1051" key="dock-window-1/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1598518475555" />
-    <state x="1761" y="203" width="1280" height="708" key="dock-window-2" timestamp="1598593658227">
-      <screen x="1280" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1761" y="203" width="1280" height="708" key="dock-window-2/1280.0.1920.1080/0.23.1280.708@1280.0.1920.1080" timestamp="1598593658227" />
-    <state x="2236" y="23" width="950" height="1057" key="dock-window-2/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1598511471073" />
-    <state x="0" y="23" width="1280" height="708" key="dock-window-2/1280.23.1920.1057/0.23.1280.708@1280.23.1920.1057" timestamp="1598571221199" />
-    <state x="0" y="0" width="1280" height="800" key="dock-window-3" timestamp="1598593658229">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state x="488" y="93" width="1201" height="707" key="dock-window-3/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1598526501028" />
-    <state x="0" y="0" width="1280" height="800" key="dock-window-3/1280.0.1920.1080/0.23.1280.708@1280.0.1920.1080" timestamp="1598593658229" />
-    <state x="1345" y="57" width="1111" height="818" key="dock-window-3/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590119609937" />
-    <state x="0" y="23" width="1280" height="708" key="dock-window-4" timestamp="1598609598075">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state x="0" y="23" width="1280" height="708" key="dock-window-4/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1598609598075" />
-    <state x="1367" y="23" width="1235" height="882" key="dock-window-5" timestamp="1590122297356">
-      <screen x="1280" y="23" width="1920" height="1057" />
-    </state>
-    <state x="1367" y="23" width="1235" height="882" key="dock-window-5/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590122297356" />
-    <state x="1392" y="29" width="1368" height="933" key="dock-window-6" timestamp="1590122995195">
-      <screen x="1280" y="23" width="1920" height="1057" />
-    </state>
-    <state x="1392" y="29" width="1368" height="933" key="dock-window-6/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590122995195" />
-    <state x="1528" y="69" width="1181" height="965" key="dock-window-7" timestamp="1590123740255">
-      <screen x="1280" y="23" width="1920" height="1057" />
-    </state>
-    <state x="1528" y="69" width="1181" height="965" key="dock-window-7/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590123740255" />
-    <state x="1623" y="88" width="967" height="688" key="dock-window-8" timestamp="1590126155300">
-      <screen x="1280" y="23" width="1920" height="1057" />
-    </state>
-    <state x="1623" y="88" width="967" height="688" key="dock-window-8/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590126155300" />
-    <state x="1336" y="86" width="1235" height="885" key="dock-window-9" timestamp="1590126568844">
-      <screen x="1280" y="23" width="1920" height="1057" />
-    </state>
-    <state x="1336" y="86" width="1235" height="885" key="dock-window-9/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590126568844" />
-    <state x="34" y="23" key="new project wizard" timestamp="1590191085633">
-      <screen x="0" y="23" width="1280" height="708" />
-    </state>
-    <state x="34" y="23" key="new project wizard/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590191085633" />
-    <state x="1738" y="49" width="1005" height="1032" key="search.everywhere.popup" timestamp="1598609904594">
-      <screen x="1280" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1738" y="49" width="1005" height="1032" key="search.everywhere.popup/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1598609904594" />
-    <state x="305" y="55" width="670" height="676" key="search.everywhere.popup/1280.23.1920.1057/0.23.1280.708@0.23.1280.708" timestamp="1590683542059" />
+    <state x="302" y="81" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.721@0.23.1280.721" timestamp="1614644307908" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -409,11 +343,6 @@
           <url>file://$PROJECT_DIR$/src/OfficeHours/Practice.java</url>
           <line>14</line>
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InterviewCoding_Tasks_Solutions/ArrayList/shortingInAscending.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

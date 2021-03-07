@@ -12,7 +12,7 @@ public class Sort_LettersAndNumbers_AlphanumericString {
         SortLettersAndNumbersFromString("DC501GCCCA098911");
     }
 
-
+//String -- Sort Letters and Numbers from alphanumeric String
     public static void SortLettersAndNumbersFromString(String str) {
 
         String str2 = "";

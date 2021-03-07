@@ -87,7 +87,7 @@ its own fields and methods in addition to the superclass fields and methods.
 	  - When I create one class object in another class which does not have a IS-A relationship it calls Has-A relationship
 	  - In above example we created a HAS-A Relationship
 	  - In that way we can invoke methods of the Engine class to our car class.
-	  - The main advantage of has a relationship is reusability of code.
+	  - The main advantage of has a relationship is readability of code.
 
 
 --> Constructor Calls:
@@ -136,7 +136,6 @@ its own fields and methods in addition to the superclass fields and methods.
 	  - Abstract class and interface are meant to be reference type, CAN NEVER BE IN OBJECT TYPE
 	  - when abstract class extended by regular class: - we MUST override ALL the abstract methods of super class
 	  - when abstract class extended by abstract class: - no need to override any abstract methods
-	  - If subclass is abstract we don't have to override all those methods
 -> abstract class:
 		- can: -> constructor, instance method, static method, instance block, static block, instance variable,
 		static variable... AND ABSTRACT METHOD

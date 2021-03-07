@@ -22,13 +22,13 @@ public class FINDRA {
 
         for(int i=1; i <= 30; i++) {
             if(i % 5==0 && i %3 ==0)
-                result += "FINRA ";
+                result += "FINRA "+"\n";
             else if(i%5 == 0)
-                result += "RA ";
+                result += "RA "+"\n";
             else if(i%3==0)
-                result+="FIN ";
+                result+="FIN "+"\n";
             else
-                result += i+" ";
+                result += i+" "+"\n";
         }
         System.out.println(result);
 

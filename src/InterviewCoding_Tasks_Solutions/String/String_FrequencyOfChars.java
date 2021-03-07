@@ -1,7 +1,8 @@
-package Questions01_String;
+package InterviewCoding_Tasks_Solutions.String;
 
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.LinkedHashSet;
 
 public class String_FrequencyOfChars {
     public static void main(String[] args) {
@@ -122,8 +123,6 @@ How to Find Frequency of The String Chars?
         return result;
     }
 //System.out.println("===============================================================================================");
-
-
 
 
 
